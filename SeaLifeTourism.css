@@ -1,0 +1,90 @@
+	*{
+	font-size: 20px;
+	}
+	#menu {
+		box-shadow:  0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+	}
+	.navbar-default {
+		background-color: #fff;
+	}
+	.menu-right{
+		width: auto;
+	}
+	nav li{
+		padding:10px;
+		margin-top:5px;
+		background-color: #fff;
+		color: black;
+		cursor: pointer;
+		transition: all 0.2s;
+	}
+	nav li :hover {
+		background-color: black;
+		color:white;
+		border-radius: 5px;
+	}
+	nav li a span{
+		display: inline-block;
+	  	position: relative;
+	  	transition: 0.5s;
+	}
+	nav li a span:hover{
+		padding:10px;
+	}
+	img {
+		height:505px;
+	}
+	.abc{
+		padding-bottom: 20px;
+	}
+	.button{
+		border-radius: 5px;
+		color: black;
+		border: 1px solid black;
+		font-size: 16px!important;
+		background-color: white;
+		transition: all 0.2s; /* chuyen dong moi tphan */
+		cursor: pointer; /* hien thi con tro khi di chuyen vao tphan */
+		margin:auto;
+	}
+	.button:hover {
+	    background-color: black;
+	    color: white;
+	}
+	.button span {
+	  cursor: pointer;
+	  display: inline-block;
+	  position: relative;
+	  transition: 0.5s;
+	}
+	button span:after {
+	  content: '\00bb';
+	  position: absolute;
+	  opacity: 0;    /* hien thi cap do trong suot cua thanh phan */
+	  top: 0;
+	  right: -20px;
+	  transition: 0.5s;
+	}
+
+	.button:hover span {
+	  padding-right: 20px;
+	}
+
+	.button:hover span:after {
+	  opacity: 1;
+	  right: 0;
+	}
+	.name_img{
+		background-color: black;
+		position:absolute; /* xd vi tri trong tphan */
+		left:20px;
+		top:5px;
+		color: #fff;
+		border-radius: 3px;
+		padding:2px;
+	}
+	.footer_end{
+		background-color: black;
+		color:white;
+		font-family: 'Andika';
+	}
