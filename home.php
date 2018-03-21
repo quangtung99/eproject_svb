@@ -26,7 +26,7 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>                        
 		      </button>
-		      <img src="https://www.logaster.com/logotype/data/7528275/png/512/4/?c=588f3ae5aa4f85fcaf66ca36ea3a077d" alt="Sea Life Tourism" style="height:80px ; width :150px">
+		      <img src="photo_imge/logo.jpg" alt="Sea Life Tourism" style="height:80px ; width :150px">
 		    </div>
 		    <div class="collapse navbar-collapse" id="myNavbar">
 		      <ul class="nav navbar-nav navbar-right menu-right">

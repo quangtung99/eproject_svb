@@ -16,7 +16,7 @@
 			width:80%;
 			margin:auto;
 		}
-		.col-sm-4 p{
+		.abc p{
 			margin-top:50px!important;
 		}
 	</style>
@@ -32,7 +32,7 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>                        
 		      </button>
-		      <img src="https://www.logaster.com/logotype/data/7528275/png/512/4/?c=588f3ae5aa4f85fcaf66ca36ea3a077d" alt="Sea Life Tourism" style="height:80px ; width :150px">
+		      <img src="photo_imge/logo.jpg" alt="Sea Life Tourism" style="height:80px ; width :150px">
 		    </div>
 		    <div class="collapse navbar-collapse" id="myNavbar">
 		      <ul class="nav navbar-nav navbar-right menu-right">
@@ -70,19 +70,19 @@
 
 	<div class="container">
 		<div class="row" style="background-color: #E8F6F6;min-height: 200px;border-radius: 15px">
-			<div class="col-sm-4">
+			<div class="col-sm-4 abc">
 				<p style="display: table;margin: auto">
 					<i class="fa fa-map-marker" style="font-size: 40px; color: #c00; text-align: center;"></i>Aptech-Aprotrain<br><strong>285 - Đội Cấn - Ba Đình Hà Nội</strong>
 					<span></span>
 				</p>
 			</div>
-			<div class="col-sm-4">
+			<div class="col-sm-4 abc">
 				<p style="display: table;margin: auto">
 					<i class="fa fa-phone" style="font-size: 40px; color: #0c0; text-align: center;"></i>&nbsp; Phone Number<br><a href="tel:0974040625"><span style="font-size: 18px; font-weight: bold;">+84 974 040 625</span></a>
 					<span></span>
 				</p>
 			</div>
-			<div class="col-sm-4">
+			<div class="col-sm-4 abc">
 				<p style="display: table;margin: auto">
 				 	<i class="fa fa-envelope" style="font-size: 40px; color: #fc0; text-align:  center;"> </i> &nbsp;
 					 Email<br><span style="font-size: 18px; font-weight: bold;"></span><a href="mailto:quangtungg29@gmail.com"><span style="font-size: 18px; font-weight: bold;">Sea_Life_Tourism.com@gmail.com</span>
