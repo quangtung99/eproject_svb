@@ -5,7 +5,7 @@
 		box-shadow:  0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
 	}
 	.navbar-default {
-		background-color: #fff;
+		background-color: white;
 	}
 	.menu-right{
 		width: auto;
@@ -13,7 +13,7 @@
 	nav li{
 		padding:10px;
 		margin-top:5px;
-		background-color: #fff;
+		background-color: white;
 		color: black;
 		cursor: pointer;
 		transition: all 0.2s;
@@ -35,7 +35,7 @@
 		height:505px;
 	}
 	.abc{
-		padding-bottom: 20px;
+		padding-bottom: 30px;
 	}
 	.button{
 		border-radius: 5px;
@@ -84,7 +84,45 @@
 		padding:2px;
 	}
 	.footer_end{
-		background-color: black;
+		background-color: #333333;
 		color:white;
 		font-family: 'Andika';
+	}
+	/* thong tin sinh vat */
+	.row .col-sm-5 img {
+		width:100%;
+		height:auto;
+		border-radius: 15px;
+	}
+	.bottom_a{
+		padding-bottom: 55px
+	}
+	.row .col-sm-7{
+		background-color: #B0E0E6;
+		min-height:400px;
+		border-radius: 15px;
+	}
+	.row .col-sm-7 h3 {
+		padding-bottom: 5px;
+	}
+	.footer_end h3  {
+		font-weight: normal!important;
+	}
+	.icon-footer{
+		font-size:50px;
+		text-align: center;
+	}
+	.icon-footer a {
+		-webkit-transition: 0.5s;
+		-moz-transition: 0.5s;
+		-o-transition: 0.5s;
+		transition: 0.5s;
+	}
+	.icon-footer a:hover, .icon-footer a:focus {
+		text-decoration: none;
+		-webkit-transform:scale(1.5);
+		-moz-transform:scale(1.5);
+		-ms-transform:scale(1.5);
+		-o-transform:scale(1.5);
+		transform:scale(1.5);
 	}

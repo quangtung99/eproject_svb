@@ -11,7 +11,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<!-- jquery -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="SeaLifeTourism.css">
 
 </head>
@@ -46,13 +46,12 @@
 		        	</a>
 		        </li>
 		        <li>
-		        	<a href="#">
-		        		<span>News</span>
+		        	<a href="booking.php">
+		        		<span>Booking</span>
 		        	</a>
 		        </li>
 		        <li>
-		        	<a href="
-		        	">
+		        	<a href="contact.php">
 		        		<span>Contact</span>
 		        	</a>
 		        </li>
@@ -61,7 +60,15 @@
 		</div>
 	</nav>
 	<div class="abc"></div>
-	<br/><br/>
+	<br/>
+
+	<!-- page information -->
+	<div class="container" style="background-color: #B0E0E6;width: 100%;padding-bottom: 10px">
+		<div style="padding-top: 30px;width: 80%;display: table;margin:auto">
+			<h1 style="font-weight: bold; font-size: 60px;text-align: center;">Chào Mừng Bạn Đến Với Sea Life Tourism </h1><br>
+			<h1 style="text-align: center;font-family: 'Andika';">Đến với Sea Life Tourism bạn sẽ thấy những điều thú vị về các loài sinh vật biển đa dạng và phong phú</h1>
+		</div>
+	</div>
 
 	<!-- Slider -->
 	<div>
@@ -100,23 +107,104 @@
 	    </div>
 	</div>
 
-	<!-- page information -->
-	<div class="container">
-		<div style="padding-top: 30px;">
-			<h1 style="font-weight: bold; font-size: 60px;text-align: center;">Chào Mừng Bạn Đến Với Sea Life Tourism </h1><br>
-			<h1 style="text-align: center;font-family: 'Andika';">Đến với Sea Life Tourism bạn sẽ thấy những điều thú vị về các loài sinh vật biển đa dạng và phong phú</h1>
+	<!-- list of organisms -->
+	<div class="container-fluid">
+		<h2 style="border-bottom: 1px solid #ccc!important; padding-bottom:20px!important;font-weight: bold">Organisms</h2>
+		<div style="background-color:#87CEFF;border-radius: 15px;padding-top: 10px">
+			<div class="container" style="margin-top: 30px ;">
+				<div class="row">
+					<div class="col-sm-3">
+						<div class="thumbnail" > 
+							<a href="dolphin.php" target="_self"> <!-- nhay sang trang khac -->
+								<span class="name_img">Dolphin</span>
+								<img src="photo_imge/imge_1.jpg" alt="">
+							</a>
+						</div>
+					</div>
+
+					<div class="col-sm-3">
+						<div class="thumbnail"> 
+							<a href="WhiteShark.php" target="_self">
+								<span class="name_img">White Shark</span>
+								<img src="photo_imge/imge_2.jpg" alt="">
+							</a>
+						</div>
+					</div>
+
+					<div class="col-sm-3">
+						<div class="thumbnail"> 
+							<a href="Shark.php" target="_self">
+								<span class="name_img">Shark</span>
+								<img src="photo_imge/imge_3.jpg" alt="">
+							</a>
+						</div>
+					</div>
+
+					<div class="col-sm-3">
+						<div class="thumbnail"> 
+							<a href="Whale.php" target="_self">
+								<span class="name_img">Whale</span>
+								<img src="photo_imge/imge_4.jpg" alt="">
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-3">
+						<div class="thumbnail"> 
+							<a href="Sealion.php" s>
+								<span class="name_img">Sea lion</span>
+								<img src="photo_imge/imge_5.jpg" alt="">
+							</a>
+						</div>
+					</div>
+
+					<div class="col-sm-3">
+						<div class="thumbnail"> 
+							<a href="Lionfish.php" target="_self">
+								<span class="name_img">Lion fish</span>
+								<img src="photo_imge/imge_6.jpg" alt="">
+							</a>
+						</div>
+					</div>
+
+					<div class="col-sm-3">
+						<div class="thumbnail"> 
+							<a href="stonefish.php" target="_self">
+								<span class="name_img">Stone Fish</span>
+								<img src="photo_imge/imge_7.jpg" alt="">
+							</a>
+						</div>
+					</div>
+
+					<div class="col-sm-3">
+						<div class="thumbnail"> 
+							<a href="Seasnake.php" target="_self">
+								<span class="name_img">Sea snake</span>
+								<img src="photo_imge/imge_8.jpg" alt="">
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<a href="" style="display: table; margin:auto;">
+			<button class="button" style="vertical-align:middle;"><span>Xem Thêm</span></button>
+			</a><br>
 		</div>
 	</div>
 
-	<!-- List of organisms  -->
+	<!-- List of event -->
 	<div class="container-fluid">
-		<h2 style="border-bottom: 1px solid #ccc!important; padding-bottom:20px!important;font-weight: bold">Organisms</h2>
+		<h2 style="border-bottom: 1px solid #ccc!important; padding-bottom:20px!important;font-weight: bold">Event</h2>
 		<div class="container" style="margin-top: 30px">
 			<div class="row">
 				<div class="col-sm-3">
 					<div class="thumbnail"> 
 						<a href="" target="_self"> <!-- nhay sang trang khac -->
-							<span class="name_img">Dolphin</span>
+							<span class="name_img">a</span>
 							<img src="photo_imge/imge_1.jpg" alt="">
 						</a>
 					</div>
@@ -125,7 +213,7 @@
 				<div class="col-sm-3">
 					<div class="thumbnail"> 
 						<a href="" target="_self">
-							<span class="name_img">White Shark</span>
+							<span class="name_img">b</span>
 							<img src="photo_imge/imge_2.jpg" alt="">
 						</a>
 					</div>
@@ -134,7 +222,7 @@
 				<div class="col-sm-3">
 					<div class="thumbnail"> 
 						<a href="" target="_self">
-							<span class="name_img">Shark</span>
+							<span class="name_img">c</span>
 							<img src="photo_imge/imge_3.jpg" alt="">
 						</a>
 					</div>
@@ -143,7 +231,7 @@
 				<div class="col-sm-3">
 					<div class="thumbnail"> 
 						<a href="" target="_self">
-							<span class="name_img">Whale</span>
+							<span class="name_img">d</span>
 							<img src="photo_imge/imge_4.jpg" alt="">
 						</a>
 					</div>
@@ -151,52 +239,39 @@
 			</div>
 		</div>
 
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-3">
-					<div class="thumbnail"> 
-						<a href="" target="_self">
-							<span class="name_img">Sea lion</span>
-							<img src="photo_imge/imge_5.jpg" alt="">
-						</a>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="thumbnail"> 
-						<a href="" target="_self">
-							<span class="name_img">Lion fish</span>
-							<img src="photo_imge/imge_6.jpg" alt="">
-						</a>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="thumbnail"> 
-						<a href="" target="_self">
-							<span class="name_img">Frogs</span>
-							<img src="photo_imge/imge_7.jpg" alt="">
-						</a>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="thumbnail"> 
-						<a href="" target="_self">
-							<span class="name_img">Sea snake</span>
-							<img src="photo_imge/imge_8.jpg" alt="">
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
 		<a href="" style="display: table; margin:auto;">
 			<button class="button" style="vertical-align:middle;"><span>Xem Thêm</span></button>
 		</a><br>
 	</div>
+
 	<div class="footer_end">
 		<div class="container-fluid">
-			<h3 style="font-weight: bold ; font-size: 50px;text-align: center;">Sea Life Tourism</h3>
+			<h3 style="font-weight: normal ; font-size: 40px;text-align: center;">Sea Life Tourism</h3>
+			<div class="row">
+				<div class="col-sm-4">
+					<p style="text-align: center;">Cảm ơn mọi người đã quan tâm đến Sea Life Tourism</p>
+				</div>
+				<div class="col-sm-4 icon-footer">
+					<a href="" class="fa fa-facebook-square" style="color: #4267b2" aria-hidden="true"></a>
+					<a href="#instagram" style="color: #FFDAB9" class="fa fa-instagram" aria-hidden="true"></a>
+					<a href="#twitter" style="color: #1da1f2" class="fa fa-twitter-square" aria-hidden="true"></a>
+					<a href="#google"  style="color: #db4437" class="fa fa-google-plus-square" aria-hidden="true"></a>
+				</div>
+				<div class="col-sm-4">
+					<p>
+						<i class="fa fa-phone" style="color: #0c0;font-size: 30px;"></i>
+						<span>+84 974 040 625</span>
+					</p>
+					<p>
+						<i class="fa fa-envelope" style="color: #fc0;font-size: 25px;"></i>
+						<span>Sea_Life_Tourism.com@gmail.com</span>
+					</p>
+					<p>
+						<i class="fa fa-map-marker" style="color: red;font-size: 30px;"></i>
+						<span>Aptech-Aprotrain<br>285 - Đội Cấn - Ba Đình - Hà Nội</span>
+					</p>
+				</div>
+			</div>
 		</div>
 	</div>
 
