@@ -69,7 +69,7 @@
 	<br/>	
 
 	<div class="container">
-		<div class="row" style="background-color: #E8F6F6;min-height: 200px;border-radius: 15px">
+		<div class="" style="background-color: #E8F6F6;min-height: 200px;border-radius: 15px">
 			<div class="col-sm-4 abc">
 				<p style="display: table;margin: auto">
 					<i class="fa fa-map-marker" style="font-size: 40px; color: #c00; text-align: center;"></i>Aptech-Aprotrain<br><strong>285 - Đội Cấn - Ba Đình Hà Nội</strong>
@@ -93,10 +93,10 @@
 	</div>
 
 	<div class="container-fluid" style="background-color:white; padding: 10px 0 10px 0 ; color: black;width: 100%">
-		<div class="row" style="width: 100%;margin:auto">
+		<div class="" style="width: 100%;margin:auto">
 			<div class="col-sm-3"></div>
 			<div class="col-sm-6" style="background-color: #B0E0E6;padding: 20px 0 20px 0 ;border-radius: 10px">
-				<div class="row" style="text-align: center;">
+				<div class="" style="text-align: center;">
 					<p>Chúng tôi có thể giúp gì được cho bạn ?</p>
 				</div>
 				<form  method="post" class="box_form">
@@ -114,7 +114,7 @@
 					</div>
 					<div class="form-group">
 						<label for="content">Nội Dung:</label>
-						<textarea class="form-control" rows="7" id="content" required></textarea>
+						<textarea class="form-control" s="7" id="content" required></textarea>
 					</div>
 					<button type="submit" class="btn btn-info" style="width: 100%;color: white;" id="submit">Gửi cho chúng tôi</button>					
 				</form>
@@ -149,7 +149,7 @@
 	<div class="footer_end">
 		<div class="container-fluid">
 			<h3 style="font-weight: normal ; font-size: 40px;text-align: center;">Sea Life Tourism</h3>
-			<div class="row">
+			<div class="">
 				<div class="col-sm-4">
 					<p style="text-align: center;">Cảm ơn mọi người đã quan tâm đến Sea Life Tourism</p>
 				</div>

@@ -9,7 +9,6 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
 	<link rel="stylesheet" type="text/css" href="SeaLifeTourism.css">
 </head>
 <body>
@@ -58,19 +57,43 @@
 	<div class="abc"></div>
 	<br/><br/><br/><br/>	
 	
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-sm-5 imge_a">
-				<img src="photo_imge/imge_4.jpg" alt="">
+	<div class="container" style="background-color: #dcdcdc"> 
+		<div class="col-sm-8">
+			<div>
+				<h1>Cá Mập! Chuyến Đi Đằng Sau</h1>
+				<p>Scenes - 1:30 PM</p>
 			</div>
-			<div class="col-sm-7 imge_b">
-				<h3 style="border-bottom: 1px solid #333333;color: red">Cá Voi Xanh</h3>
-				<p><strong>Cá voi xanh, còn gọi là cá ông là một loài cá voi thuộc về phân bộ Mysticeti (cá voi tấm sừng hàm). Dài 30 mét (98 ft) và nặng 180 tấn (200 tấn thiếu) hay thậm chí hơn nữa, nó là động vật lớn nhất còn tồn tại và nặng nhất từng tồn tại.<br><br>Cơ thể cá voi xanh dài và thon, có thể có màu hơi xanh-xám ở mặt lưng và sáng màu hơn ở mặt bụng. Có ít nhất 3 phân loài cá voi xanh: B. m. musculus sống ở vùng biển bắc Đại Tây Dương và bắc Thái Bình Dương, B. m. intermedia sống ở Nam Băng Dương và B. m. brevicauda (cá voi xanh lùn) sống ở Ấn Độ Dương và nam Thái Bình Dương. Giống như các loài cá voi khác, thức ăn của chúng chủ yếu là sinh vật phù du và giáp xác nhỏ.</strong></p>
+			<div>
+				<img src="photo_imge/imge_2.jpg" alt="" style="width:100%;height: auto;">
+			</div>
+			<div>
+				<p><strong>Bao gồm Aquarium Admission</strong><br><br>
+				Thành viên Aquarium Quốc gia có thể tiết kiệm cho các tour du lịch ngâm. Vui lòng gọi số 410-576-3833 để mua hàng với một khoản giảm giá thành viên.<br><br>
+				<strong>Dám nhận không thân thiện gần với cá mập</strong><br><br>Tất cả người tham gia phải từ 8 tuổi trở lên để tham gia vào chương trình này. Tiền hoàn lại sẽ không được cấp cho những người không đáp ứng các yêu cầu về tuổi.<br><br>
+				Thời gian: 1,5 giờ<br>
+				Mô tả Tour: <br>
+				Đừng bỏ lỡ cơ hội của bạn để có được gần với cá mập của Aquarium! Đi đằng sau hậu trường với một hướng dẫn chuyên gia để khám phá sự thật về những sinh vật biển lạ thường này.
+				<br><br>
+				Tìm hiểu cách đội của chúng tôi chăm sóc cho nhiều loài cá mập - bao gồm cả trường học những con cá mập rạn san hô mượt mà, nhanh nhẹn trong một trong những cuộc triển lãm phổ biến nhất của chúng tôi là Blacktip Reef .<br><br>
+				Thăm khu vực chuẩn bị thức ăn của chúng tôi để tìm hiểu cách chế độ ăn cá mập được lập kế hoạch cẩn thận và theo dõi. Cảm thấy dũng cảm? Dám đi bộ trên sàn catwalk phía trên Shark Alley, nơi cá mập bơi yên lặng bên dưới.</p>
+			</div>
+		</div>
+		<div class="col-sm-4" style="background: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); padding:  20px 0 20px 0; margin-top: 20px;">
+			<div style="margin-left: 30px">
+				<div>
+					<h3>Giá bán: </h3>
+				</div>
+				<div>
+					<span style="font-size: 25px">Số lượng:	</span>
+					<input type="text" name="boock" size="2" value="1">
+				</div>
+				<div style="margin-top: 10px">
+					<button type="button" class="btn btn-danger">Thêm vào booking</button>
+				</div>
 			</div>
 		</div>
 	</div>
-	<div class="bottom_a"></div>
-
+	<div style="padding-bottom: 50px"></div>
 	
 	<div class="footer_end">
 		<div class="container-fluid">

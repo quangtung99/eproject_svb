@@ -60,10 +60,10 @@
 	
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-5">
+			<div class="col-sm-5 imge_a">
 				<img src="photo_imge/imge_6.jpg" alt="">
 			</div>
-			<div class="col-sm-7">
+			<div class="col-sm-7 imge_b">
 				<h3 style="border-bottom: 1px solid #333333;color: red">Cá Sư Tử</h3>
 				<p>Cá sư tử là một trong nhiều loài cá biển có nọc độc thuộc chi Pterois, Parapterois, Brachypterois, Ebosia hay Dendrochirus của họ Cá mù làn (Scorpaenidae). Cá sư tử cũng có tên Cá Thổ Nhĩ Kỳ, Cá rồng hay Cá bò cạp. Chúng có các tua dài, thân có nhiều sọc màu đỏ, vàng, da cam, nâu, đen hoặc trắng.<br><br>Cá sư tử sông ở vùng biển nhiệt đới thuộc Ấn Độ Dương-Thái Bình Dương nhưng một số loài có thể sống trên khắp thế giới. Do được con người đưa đi, gần đây người ta còn thấy sự hiện diện của cá sư tử ở các vùng san hô ấm của Đông Đại Tây Dương và biển Caribe.</p>
 			</div>

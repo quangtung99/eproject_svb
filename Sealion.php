@@ -60,10 +60,10 @@
 	
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-5">
+			<div class="col-sm-5 imge_a">
 				<img src="photo_imge/imge_5.jpg" alt="">
 			</div>
-			<div class="col-sm-7">
+			<div class="col-sm-7 imge_b">
 				<h3 style="border-bottom: 1px solid #333333;color: red">Sư Tử Biển</h3>
 				<p>Sư tử biển là các loài động vật có vú trong phân họ Otariinae. Sư tử biển cùng với hải cẩu lông (fur seal) tạo thành họ Otariidae, sư tử biển có sáu loài còn tồn tại và một loài đã tuyệt chủng (sư tử biển Nhật Bản) trong năm chi. Phạm vi của sư tử biển kéo dài từ vùng cận Bắc Cực đến vùng biển nhiệt đới của đại dương trên toàn cầu trong cả Bắc và Nam Bán Cầu với ngoại lệ đáng chú ý phía bắc Đại Tây Dương. Chúng có tuổi thọ trung bình từ 20-30 năm. Một con sư tử biển California cân nặng trên trung bình khoảng 300 kg và dài khoảng 2,4 m trong khi sư tử biển cái nặng 100 kg và dài đến 1,8 m. Loài sư tử biển lớn nhất là sư tử biển Steller có thể nặng 1.000 kg và phát triển đến chiều dài 3 m.</p>
 			</div>

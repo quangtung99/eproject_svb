@@ -61,10 +61,10 @@
 	
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-5">
+			<div class="col-sm-5 imge_a">
 				<img src="photo_imge/imge_8.jpg" alt="">
 			</div>
-			<div class="col-sm-7">
+			<div class="col-sm-7 imge_b">
 				<h3 style="border-bottom: 1px solid #333333;color: red">Rắn Biển</h3>
 				<p>	Rắn biển là một nhóm rắn có nọc độc sinh sống trong môi trường biển hay sinh sống phần lớn thời gian trong môi trường biển, mặc dù chúng đã tiến hóa từ tổ tiên sống trên mặt đất. Rắn biển được tìm thấy trong vùng nước ấm ven biển từ Ấn Độ Dương đến Thái Bình Dương.<br><br>Đặc điểm chung của các loài rắn biển là chúng có cấu tạo cơ thể theo chiều ngang dẹt giống như những con lươn. Không giống như cá, rắn biển không có mang và thường xuyên phải trồi lên mặt nước để thở. Các loài rắn biển thường có nọc độc mạnh<br></p>
 			</div>

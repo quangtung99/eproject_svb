@@ -59,10 +59,10 @@
 	
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-5">
+			<div class="col-sm-5 imge_a">
 				<img src="photo_imge/imge_1.jpg" alt="">
 			</div>
-			<div class="col-sm-7">
+			<div class="col-sm-7 imge_b">
 				<h3 style="border-bottom: 1px solid #333333;color: red">Cá Heo</h3>
 				<p>Cá heo là động vật có vú sống ở đại dương và sông nước có quan hệ mật thiết với cá voi. Có gần 40 loài cá heo thuộc 17 chi sinh sống ở các đại dương, số ít còn lại sinh sống tại một số con sông trên thế giới (sông Dương Tử, sông Amazon, sông Ấn, sông Hằng..). Kích thước của cá heo có thể từ 1,2 m (4 ft) và40 kg (90 lb) (Cá heo Maui), cho tới 9,5 m (30 ft) và 10 tấn (9,8 tấn Anh; 11 tấn thiếu) (Cá heo đen lớn hay Cá voi sát thủ). Cá heo có trên toàn thế giới và thường cư ngụ ở các biển nông của thềm lục địa. Cá heo là loài ăn thịt, chủ yếu là ăn cá và mực. Họ cá voi đại dương Delphinidae là họ lớn nhất trong bộ cá heo và cũng là họ xuất hiện muộn nhất: khoảng 10 triệu năm trước đây, trong thế Trung Tân. Cá heo là một trong số những động vật thông minh và được biết đến nhiều trong văn hóa loài người nhờ hình thức thân thiện và thái độ tinh nghịch.</p>
 			</div>

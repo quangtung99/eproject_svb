@@ -63,7 +63,7 @@
 	<br/>
 
 	<!-- page information -->
-	<div class="container" style="background-color: #B0E0E6;width: 100%;padding-bottom: 10px">
+	<div class="container" style=" width: 100%;padding-bottom: 10px">
 		<div style="padding-top: 30px;width: 80%;display: table;margin:auto">
 			<h1 style="font-weight: bold; font-size: 60px;text-align: center;">Chào Mừng Bạn Đến Với Sea Life Tourism </h1><br>
 			<h1 style="text-align: center;font-family: 'Andika';">Đến với Sea Life Tourism bạn sẽ thấy những điều thú vị về các loài sinh vật biển đa dạng và phong phú</h1>
@@ -201,39 +201,26 @@
 		<h2 style="border-bottom: 1px solid #ccc!important; padding-bottom:20px!important;font-weight: bold">Event</h2>
 		<div class="container" style="margin-top: 30px">
 			<div class="row">
-				<div class="col-sm-3">
+				<div class="col-sm-6">
 					<div class="thumbnail"> 
-						<a href="" target="_self"> <!-- nhay sang trang khac -->
-							<span class="name_img">a</span>
-							<img src="photo_imge/imge_1.jpg" alt="">
-						</a>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="thumbnail"> 
-						<a href="" target="_self">
-							<span class="name_img">b</span>
+						<a href="event1.php" target="_self" style="text-decoration:none;"	>
 							<img src="photo_imge/imge_2.jpg" alt="">
+							<p >Cá mập! Đằng sau những cảnh Tour<br>
+							22 Tháng 3, 2018, 1:30 chiều - 3:00 chiều<br>
+							Hãy thoải mái gần với những kẻ săn mồi trong vùng sâu.</p>
 						</a>
 					</div>
 				</div>
 
-				<div class="col-sm-3">
+				<div class="col-sm-6">
 					<div class="thumbnail"> 
-						<a href="" target="_self">
-							<span class="name_img">c</span>
-							<img src="photo_imge/imge_3.jpg" alt="">
+						<a href="event2.php" target="_self" style="text-decoration:none;"	>
+							<img src="photo_imge/event1.jpg" alt="">
+							<p>Cuộc thảo luận về nhà giáo dục - Blacktip Reef Cấp bậc 1<br>
+							Thứ Năm, 22 Tháng 3 Năm 2018, 10:15 sáng<br>
+							Khám phá những con vật sống trong rặng san hô độc nhất của chúng ta!</p>
 						</a>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="thumbnail"> 
-						<a href="" target="_self">
-							<span class="name_img">d</span>
-							<img src="photo_imge/imge_4.jpg" alt="">
-						</a>
+						
 					</div>
 				</div>
 			</div>
@@ -275,5 +262,24 @@
 		</div>
 	</div>
 
+	<div class="go_up">
+		<div class="thetop"><i class="fa fa-arrow-up"></i></div>
+	</div>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(window).scroll(function(){
+				if($(this).scrollTop() > 200 ){
+					$('.go_up').fadeIn();
+					} else {
+						$('.go_up').fadeOut();
+					}	
+					
+			});
+			$('.go_up').click(function(){
+				$("html,body").animate( { scrollTop:0}, 800)
+			});
+		});
+
+	</script>
 </body>
 </html>

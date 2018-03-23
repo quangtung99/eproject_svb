@@ -61,10 +61,10 @@
 	
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-5">
+			<div class="col-sm-5 imge_a">
 				<img src="photo_imge/imge_7.jpg" alt="">
 			</div>
-			<div class="col-sm-7">
+			<div class="col-sm-7 imge_b">
 				<h3 style="border-bottom: 1px solid #333333;color: red">Cá Đá</h3>
 				<p>Cá mặt quỷ có thân hình to xù xì, nhiều vây ở sống lưng, giống tảng đá với lớp da loang lổ màu nâu đỏ thô ráp. Da cá dai và chứa nhiều vây sắc nhọn. Trong điều kiện đủ độ ẩm, cá có thể sống trên cạn vài ngày. Chiều dài tối đa của nó khoảng gần 1m, tuy nhiên, ở một số nước như Việt Nam, cá mặt quỷ có kích thước nhỏ hơn, khoảng 20 đến 50 cm, trọng lượng khoảng 1-1,5 kg/con. Cá có 13 tia vây lưng mang độc tố và độc có thể tồn tại nhiều ngày sau khi cá chết. Khi vây cá đâm vào con người, độc tố sẽ tác động trực tiếp đến hệ cơ vận động, hệ thần kinh và làm hệ cơ trơn của tim ở người: sưng to; huyết áp, nhịp tim, nhịp thở rối loạn.</p>
 			</div>

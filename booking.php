@@ -63,14 +63,61 @@
 	<div class="abc"></div>
 	<br/>	
 
-	<div>
-		
+	<div class="body-content" style="min-height: 400px;background-color: #eee">
+		<div class="contaier jumbotron">
+			<div class="title">
+				<h3 style="text-align: center;font-weight: bold">KIỂM TRA ĐƠN BOOKING</h3>
+			</div>
+			<div class="">
+				<div class="col-md-7 ">
+					<div class="container">
+						<div class="">
+							<div class="col-sm-12">
+								<i class="fa fa-file-text-o"></i>&nbsp;	<span>Mã đơn:</span>
+							</div>
+						</div>
+						<table class="table col-sm-6" style="background-color: #fff">
+							<thead>
+								<tr>
+									<th>abc</th>
+									<th>abc</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>adasd</td>
+									<td>adasd</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="col-md-5 ">
+					<div class="">
+						<div class="container">
+							<div class="">
+								<div class="col-sm-12" >
+									<span>Mã Giảm Giá :</span>
+									<div>
+										<input type="text" class="form-control" name="" placeholder="nhap ma" style="width: 60%;float: left">
+										<button type="button" class="btn btn-danger">Áp Dụng</button>
+									</div>
+								</div><br>
+							</div>
+						</div>
+					</div>
+					<div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 
 	<div class="footer_end">
 		<div class="container-fluid">
 			<h3 style="font-weight: normal ; font-size: 40px;text-align: center;">Sea Life Tourism</h3>
-			<div class="row">
+			<div class="">
 				<div class="col-sm-4">
 					<p style="text-align: center;">Cảm ơn mọi người đã quan tâm đến Sea Life Tourism</p>
 				</div>

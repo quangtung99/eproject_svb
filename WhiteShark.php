@@ -60,10 +60,10 @@
 	
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-5">
+			<div class="col-sm-5 imge_a">
 				<img src="photo_imge/imge_2.jpg" alt="">
 			</div>
-			<div class="col-sm-7">
+			<div class="col-sm-7 imge_b">
 				<h3 style="border-bottom: 1px solid #333333;color: red">Cá Mập Trắng</h3>
 				<p> Cá mập trắng, là một loài cá mập to khác thường được tìm thấy ở miền duyên hải trên khắp các đại dương. Cá mập trắng lớn được biết đến vì kích thước của nó, dài 6,4 m (21 ft) và cân nặng 3.324 kg (7.328 lb).Loài này trưởng thành về mặt sinh sản khi khoảng 15 năm tuổi và trước đây được cho rằng có vòng đời hơn 30 năm. Vòng đời thực của cá mập trắng còn dài hơn nhiều; nay được ước lượng khoảng 70 năm hay hơn, làm nó trở thành một trong các loài cá sụn sống lâu nhất. Cá mập trắng trắng đạt tốc độ hơn 56 km/h (35 mph).<br>Cá mập trắng lớn không có kẻ thù tự nhiên nào ngoài cá voi sát thủ. Nó là loài cá ăn thịt lớn nhất còn tồn tại. Nó săn nhiều loài động vật có vú biển, cũng như cá và chim biển</p>
 			</div>

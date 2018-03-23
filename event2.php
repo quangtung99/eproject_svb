@@ -9,7 +9,6 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
 	<link rel="stylesheet" type="text/css" href="SeaLifeTourism.css">
 </head>
 <body>
@@ -58,19 +57,41 @@
 	<div class="abc"></div>
 	<br/><br/><br/><br/>	
 	
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-sm-5 imge_a">
-				<img src="photo_imge/imge_4.jpg" alt="">
+	<div class="container" style="background-color: #dcdcdc"> 
+		<div class="col-sm-8">
+			<div>
+				<h1>Cuộc thảo luận về nhà giáo dục - Blacktip Reef Cấp bậc 1</h1>
+				<p>Scenes - 1:30 PMThứ sáu, ngày 23 tháng 3 năm 2018, 10:15 sáng - 10:45 sáng</p>
 			</div>
-			<div class="col-sm-7 imge_b">
-				<h3 style="border-bottom: 1px solid #333333;color: red">Cá Voi Xanh</h3>
-				<p><strong>Cá voi xanh, còn gọi là cá ông là một loài cá voi thuộc về phân bộ Mysticeti (cá voi tấm sừng hàm). Dài 30 mét (98 ft) và nặng 180 tấn (200 tấn thiếu) hay thậm chí hơn nữa, nó là động vật lớn nhất còn tồn tại và nặng nhất từng tồn tại.<br><br>Cơ thể cá voi xanh dài và thon, có thể có màu hơi xanh-xám ở mặt lưng và sáng màu hơn ở mặt bụng. Có ít nhất 3 phân loài cá voi xanh: B. m. musculus sống ở vùng biển bắc Đại Tây Dương và bắc Thái Bình Dương, B. m. intermedia sống ở Nam Băng Dương và B. m. brevicauda (cá voi xanh lùn) sống ở Ấn Độ Dương và nam Thái Bình Dương. Giống như các loài cá voi khác, thức ăn của chúng chủ yếu là sinh vật phù du và giáp xác nhỏ.</strong></p>
+			<div>
+				<img src="photo_imge/event1.jpg" alt="" style="width:100%;height: auto;">
+			</div>
+			<div>
+				<p>
+				Bạn có thể ngạc nhiên khi biết rằng rạn san hô chia sẻ rất nhiều với các thành phố đô thị. Tham gia Nhà tư vấn về Aquarium của chúng tôi sẽ thảo luận về  đỉnh rạn của rặng san hô của triển lãm Blacktip Reef để khám phá những gì chúng tôi có chung với những động vật sống trong môi trường sống độc đáo này.<br><br>
+				Mô tả Tour: <br><br>
+				Bao giờ tự hỏi những gì đi về phía sau hậu trường tại Aquarium? Đây là cơ hội của bạn để bước vào câu chuyện của chúng tôi và xem Aquarium một cách hoàn toàn mới. Trong trải nghiệm tuyệt vời này, bạn sẽ khám phá các cuộc triển lãm của chúng tôi với một trong những chuyên gia của chúng tôi.
+				<br><br>
+				Hướng dẫn của bạn sẽ chia sẻ những câu chuyện thú vị về thú vật của chúng ta và môi trường sống mà họ gọi là nhà, dẫn bạn đến các khu vực chuyên biệt chỉ dành riêng cho nhân viên, đưa bạn đến gần với một trong những cư dân động vật của chúng tôi và nhiều hơn nữa.<br><br>
+				Vì vậy, tham gia chúng tôi và trở thành một người trong ngành cá cảnh-bạn sẽ không bao giờ trải nghiệm Thủy cung Quốc gia theo cùng một cách nữa!</p>
+			</div>
+		</div>
+		<div class="col-sm-4" style="background: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); padding:  20px 0 20px 0; margin-top: 20px;">
+			<div style="margin-left: 30px">
+				<div>
+					<h3>Giá bán: </h3>
+				</div>
+				<div>
+					<span style="font-size: 25px">Số lượng:	</span>
+					<input type="text" name="boock" size="2" value="1" >
+				</div>
+				<div style="margin-top: 10px">
+					<button type="button" class="btn btn-danger">Thêm vào booking</button>
+				</div>
 			</div>
 		</div>
 	</div>
-	<div class="bottom_a"></div>
-
+	<div style="padding-bottom: 50px"></div>
 	
 	<div class="footer_end">
 		<div class="container-fluid">
