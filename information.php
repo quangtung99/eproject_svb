@@ -10,6 +10,9 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="SeaLifeTourism.css">
 	<style type="text/css">
+		#bug {
+			margin:0;
+		}
 		#text1 {
 			margin-top: 100px;
 			text-align: center;
@@ -27,9 +30,9 @@
 		border-radius: 3px;
 		padding:2px;
 	}
-	input {
-		margin-left: 650px;
-		margin-bottom: 50px
+	#bug-wrapper {
+		display: table;
+		margin: auto;
 	}
 	</style>
 </head>
@@ -52,12 +55,12 @@
 		        	</a>
 		        </li>
 		        <li>
-		        	<a href="#">
+		        	<a href="information.php">
 		        		<span>Information</span>
 		        	</a>
 		        </li>
 		        <li>
-		        	<a href="#">
+		        	<a href="event.php">
 		        		<span>Event</span>
 		        	</a>
 		        </li>
@@ -76,12 +79,12 @@
 		</div>
 	</nav><br><br>
 
-	<div>
-		<h2 id="text1">WELCOME TO THE MINI OCEAN OF SEA LIFE TOURISM</h2>
+	<div class="container-fluid">
+		<h2 id="text1">ĐẠI DƯƠNG THU NHỎ TẠI SEA LIFE TOURISM</h2>
 	</div><br><br>
 
 	<div class="container-fluid">
-		<div class="row">
+		
 			<div class="col-sm-4">
 				<div class="thumbnail">
 					<a href="ca_bong_mat_tre.php">
@@ -109,12 +112,10 @@
 						<img src="image/ca_cong_gootetra.jpg">
 					</a>
 				</div>
-
-		</div>
+			</div>
 	</div>
 
 	<div class="container-fluid">
-		<div class="row">
 			<div class="col-sm-4">
 				<div class="thumbnail">
 					<a href="ca_dien_quang.php">
@@ -142,12 +143,11 @@
 						<img src="image/ca_ho_diep.jpg">
 					</a>
 				</div>
+			</div>
 
-		</div>
 	</div>
 
 	<div class="container-fluid">
-		<div class="row">
 			<div class="col-sm-4">
 				<div class="thumbnail">
 					<a href="ca_map_voi.php">
@@ -172,17 +172,13 @@
 				<div class="thumbnail">
 					<a href="ca_mu_chalk.php">
 						<span class="css">Cá mú chalk</span>
-						<img src="image/ca_mu_chalk.jpg" width="100%">
+						<img src="image/ca_mu_chalk.jpg">
 					</a>
 				</div>
-
-		</div>
+			</div>
 	</div>
 
 	<div class="container-fluid">
-		<div class="row">
-
-
 			<div class="col-sm-4">
 				<div class="thumbnail">
 					<a href="ca_neon.php">
@@ -197,7 +193,7 @@
 				<div class="thumbnail">
 					<a href="ca_riu_vach.php">
 						<span class="css">Cá rìu vạch</span>
-						<img src="image/ca_riu_vach.jpg" width="100%">
+						<img src="image/ca_riu_vach.jpg">
 					</a>
 				</div>
 			</div>
@@ -210,13 +206,9 @@
 					</a>
 				</div>
 			</div>
-		</div>
 	</div>
 
 	<div class="container-fluid">
-		<div class="row">
-
-
 			<div class="col-sm-4">
 				<div class="thumbnail">
 					<a href="ca_thuy_tinh_duoi_do.php">
@@ -231,7 +223,7 @@
 				<div class="thumbnail">
 					<a href="ca_ty_ba_buom.php">
 						<span class="css">Cá tỳ bà bướm</span>
-						<img src="image/ca_ty_ba_buom.jpg" width="100%">
+						<img src="image/ca_ty_ba_buom.jpg">
 					</a>
 				</div>
 			</div>
@@ -244,14 +236,10 @@
 					</a>
 				</div>
 			</div>
-		</div>
 	</div>
 
 
 	<div class="container-fluid">
-		<div class="row">
-
-
 			<div class="col-sm-4">
 				<div class="thumbnail">
 					<a href="fangblenny.php">
@@ -266,7 +254,7 @@
 				<div class="thumbnail">
 					<a href="mandarin.php">
 						<span class="css">Cá mandarin</span>
-						<img src="image/mandarin.jpg" width="100%">
+						<img src="image/mandarin.jpg">
 					</a>
 				</div>
 			</div>
@@ -279,11 +267,10 @@
 					</a>
 				</div>
 			</div>
-		</div>
 	</div><br><br>
 
-	<div>
-		<input type="submit" name="submit_information" value="Thêm dữ liệu" class="btn btn-success">
+	<div id="bug-wrapper">
+		<input id="bug" type="submit" name="submit_information" value="Thêm dữ liệu" class="btn btn-success">
 	</div><br><br>
 
 	<div class="footer_end">
@@ -316,5 +303,25 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="go_up">
+		<div class="thetop"><i class="fa fa-arrow-up"></i></div>
+	</div>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(window).scroll(function(){
+				if($(this).scrollTop() > 200 ){
+					$('.go_up').fadeIn();
+					} else {
+						$('.go_up').fadeOut();
+					}	
+					
+			});
+			$('.go_up').click(function(){
+				$("html,body").animate( { scrollTop:0}, 800)
+			});
+		});
+
+	</script>
 </body>
 </html>

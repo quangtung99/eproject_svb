@@ -32,12 +32,12 @@
 		        	</a>
 		        </li>
 		        <li>
-		        	<a href="#">
+		        	<a href="information.php">
 		        		<span>Information</span>
 		        	</a>
 		        </li>
 		        <li>
-		        	<a href="#">
+		        	<a href="event.php">
 		        		<span>Event</span>
 		        	</a>
 		        </li>

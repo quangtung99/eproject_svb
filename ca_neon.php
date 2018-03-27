@@ -9,16 +9,11 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
 	<link rel="stylesheet" type="text/css" href="SeaLifeTourism.css">
-	<style type="text/css">
-		
-		
-	</style>
+	
 </head>
-<body style="background-image: none;">
+<body>
 
-	<!-- menu_bar -->
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container-fluid" id="menu">
 		    <div class="navbar-header">
@@ -61,63 +56,38 @@
 		</div>
 	</nav>
 	<div class="abc"></div>
-	<br/>	
-
-	<div class="body-content" style="min-height: 400px;background-color: #eee">
-		<div class="contaier jumbotron">
-			<div class="title">
-				<h3 style="text-align: center;font-weight: bold">KIỂM TRA ĐƠN BOOKING</h3>
+	<br/><br/><br/><br/>	
+	
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-5 imge_a">
+				<img src="image/ca_neon.jpg">
 			</div>
-			<div class="">
-				<div class="col-md-7 ">
-					<div class="container">
-						<div class="">
-							<div class="col-sm-12">
-								<i class="fa fa-file-text-o"></i>&nbsp;	<span>Mã đơn:</span>
-							</div>
-						</div>
-						<table class="table col-sm-6" style="background-color: #fff">
-							<thead>
-								<tr>
-									<th>abc</th>
-									<th>abc</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>adasd</td>
-									<td>adasd</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</div>
-				<div class="col-md-5 ">
-					<div class="">
-						<div class="container">
-							<div class="">
-								<div class="col-sm-12" >
-									<span>Mã Giảm Giá :</span>
-									<div>
-										<input type="text" class="form-control" name="" placeholder="nhap ma" style="width: 60%;float: left">
-										<button type="button" class="btn btn-danger">Áp Dụng</button>
-									</div>
-								</div><br>
-							</div>
-						</div>
-					</div>
-					<div>
-						
-					</div>
-				</div>
+			<div class="col-sm-7 imge_b">
+				<h3 style="border-bottom: 1px solid #333333;color: red">Cá Neon</h3>
+				<p>
+					Tên sinh học : Neon Tetra<br>
+					Cá Neon nổi bật với màu sắc sặc sỡ ngay cả khi không có ánh đèn và luôn thu hút được sự chú ý cao nhất trong hồ thủy sinh.<br>
+					Con đực có vây lưng và vây hậu môn dài, rộng và sặc sỡ, trong khi con cái tròn hơn, bụng to hơn. Cá có kích thước nhỏ, khi trưởng thành mới đạt từ 3 -4 cm<br>
+					 Cá cũng lên màu đẹp khi nuôi chung cá đực và cái trong đàn, tỉ lệ đực cái là 1:2. Cá ăn tạp, thức ăn gồm ấu trùng côn trùng, trùng chỉ, cung quăng, mùn bã thực vật đến giáp xác, bo bo, thức ăn viên cỡ nhỏ.<br>
+					Nhiệt độ nước (C):20 – 26<br>
+					Độ cứng nước (dH):5 – 20<br>
+					Độ pH:5,0 – 7,0<br>
+					Tính ăn:Ăn tạp<br>
+					Hình thức sinh sản: Đẻ trứng<br>
+					 Nếu đảm bảo được điều kiện sống tốt cho cá, cá có thể sống đến 10 năm
+
+									</p>
 			</div>
 		</div>
 	</div>
+	<div class="bottom_a"></div>
 
+	
 	<div class="footer_end">
 		<div class="container-fluid">
 			<h3 style="font-weight: normal ; font-size: 40px;text-align: center;">Sea Life Tourism</h3>
-			<div class="">
+			<div class="row">
 				<div class="col-sm-4">
 					<p style="text-align: center;">Cảm ơn mọi người đã quan tâm đến Sea Life Tourism</p>
 				</div>

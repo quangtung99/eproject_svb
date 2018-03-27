@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title></title>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Sea Life Tourism</title>
@@ -9,16 +10,10 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
 	<link rel="stylesheet" type="text/css" href="SeaLifeTourism.css">
-	<style type="text/css">
-		
-		
-	</style>
-</head>
-<body style="background-image: none;">
 
-	<!-- menu_bar -->
+</head>
+<body>
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container-fluid" id="menu">
 		    <div class="navbar-header">
@@ -60,55 +55,47 @@
 		    </div>
 		</div>
 	</nav>
-	<div class="abc"></div>
-	<br/>	
+	<div><br><br><br><br></div>
 
-	<div class="body-content" style="min-height: 400px;background-color: #eee">
-		<div class="contaier jumbotron">
-			<div class="title">
-				<h3 style="text-align: center;font-weight: bold">KIỂM TRA ĐƠN BOOKING</h3>
-			</div>
-			<div class="">
-				<div class="col-md-7 ">
-					<div class="container">
-						<div class="">
-							<div class="col-sm-12">
-								<i class="fa fa-file-text-o"></i>&nbsp;	<span>Mã đơn:</span>
-							</div>
-						</div>
-						<table class="table col-sm-6" style="background-color: #fff">
-							<thead>
-								<tr>
-									<th>abc</th>
-									<th>abc</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>adasd</td>
-									<td>adasd</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
+	<div class="container-fluid">
+		<div class="col-sm-8">
+			<div class="panel panel-info">
+				<div class="panel-heading" style="text-align: center;">
+					<h3>Cá Mập! Chuyến Đi Đằng Sau</h3>
+					<p>Scenes - 1:30 PM</p>
 				</div>
-				<div class="col-md-5 ">
-					<div class="">
-						<div class="container">
-							<div class="">
-								<div class="col-sm-12" >
-									<span>Mã Giảm Giá :</span>
-									<div>
-										<input type="text" class="form-control" name="" placeholder="nhap ma" style="width: 60%;float: left">
-										<button type="button" class="btn btn-danger">Áp Dụng</button>
-									</div>
-								</div><br>
-							</div>
-						</div>
-					</div>
-					<div>
-						
-					</div>
+				<div class="panel-body">
+					<img src="photo_imge/imge_2.jpg" alt="" style="width:100%;height: auto;">
+				</div>
+				<div class="panel-footer">
+					<p><strong>Bao gồm Aquarium Admission</strong><br><br>
+				Thành viên Aquarium Quốc gia có thể tiết kiệm cho các tour du lịch ngâm. Vui lòng gọi số 410-576-3833 để mua hàng với một khoản giảm giá thành viên.<br><br>
+				<strong>Dám nhận không thân thiện gần với cá mập</strong><br><br>Tất cả người tham gia phải từ 8 tuổi trở lên để tham gia vào chương trình này. Tiền hoàn lại sẽ không được cấp cho những người không đáp ứng các yêu cầu về tuổi.<br><br>
+				Thời gian: 1,5 giờ<br>
+				Mô tả Tour: <br>
+				Đừng bỏ lỡ cơ hội của bạn để có được gần với cá mập của Aquarium! Đi đằng sau hậu trường với một hướng dẫn chuyên gia để khám phá sự thật về những sinh vật biển lạ thường này.
+				<br><br>
+				Tìm hiểu cách đội của chúng tôi chăm sóc cho nhiều loài cá mập - bao gồm cả trường học những con cá mập rạn san hô mượt mà, nhanh nhẹn trong một trong những cuộc triển lãm phổ biến nhất của chúng tôi là Blacktip Reef .<br><br>
+				Thăm khu vực chuẩn bị thức ăn của chúng tôi để tìm hiểu cách chế độ ăn cá mập được lập kế hoạch cẩn thận và theo dõi. Cảm thấy dũng cảm? Dám đi bộ trên sàn catwalk phía trên Shark Alley, nơi cá mập bơi yên lặng bên dưới.</p>
+				</div>
+			</div>		
+		</div>
+
+		<div class="col-sm-4">
+			<div class="panel panel-danger">
+				<div class="panel-heading">
+					<h3 style="text-align: center; padding-top: 19px; padding-bottom: 18px">GIÁ VÉ</h3>
+				</div>
+				<div class="panel-body">
+					<div class="form-group has-success has-feedback">
+					    <label class="col-sm-4 control-label">Số lượng</label>
+					    <div class="col-sm-8">
+					    	<input type="text" class="form-control" placeholder="Giá vé người lớn : 45k/ng">
+					    </div>
+					 </div>
+				</div>
+				<div class="panel-footer" style="padding-left: 143px">
+					<input id="button_event_1" type="button" name="" value="Đặt ngay" class="btn btn-success">
 				</div>
 			</div>
 		</div>
@@ -117,7 +104,7 @@
 	<div class="footer_end">
 		<div class="container-fluid">
 			<h3 style="font-weight: normal ; font-size: 40px;text-align: center;">Sea Life Tourism</h3>
-			<div class="">
+			<div class="row">
 				<div class="col-sm-4">
 					<p style="text-align: center;">Cảm ơn mọi người đã quan tâm đến Sea Life Tourism</p>
 				</div>

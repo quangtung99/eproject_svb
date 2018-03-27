@@ -9,16 +9,11 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
 	<link rel="stylesheet" type="text/css" href="SeaLifeTourism.css">
-	<style type="text/css">
-		
-		
-	</style>
+	
 </head>
-<body style="background-image: none;">
+<body>
 
-	<!-- menu_bar -->
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container-fluid" id="menu">
 		    <div class="navbar-header">
@@ -61,63 +56,45 @@
 		</div>
 	</nav>
 	<div class="abc"></div>
-	<br/>	
-
-	<div class="body-content" style="min-height: 400px;background-color: #eee">
-		<div class="contaier jumbotron">
-			<div class="title">
-				<h3 style="text-align: center;font-weight: bold">KIỂM TRA ĐƠN BOOKING</h3>
+	<br/><br/><br/><br/>	
+	
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-5 imge_a">
+				<img src="image/ca_voi_voi.jpg">
 			</div>
-			<div class="">
-				<div class="col-md-7 ">
-					<div class="container">
-						<div class="">
-							<div class="col-sm-12">
-								<i class="fa fa-file-text-o"></i>&nbsp;	<span>Mã đơn:</span>
-							</div>
-						</div>
-						<table class="table col-sm-6" style="background-color: #fff">
-							<thead>
-								<tr>
-									<th>abc</th>
-									<th>abc</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>adasd</td>
-									<td>adasd</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</div>
-				<div class="col-md-5 ">
-					<div class="">
-						<div class="container">
-							<div class="">
-								<div class="col-sm-12" >
-									<span>Mã Giảm Giá :</span>
-									<div>
-										<input type="text" class="form-control" name="" placeholder="nhap ma" style="width: 60%;float: left">
-										<button type="button" class="btn btn-danger">Áp Dụng</button>
-									</div>
-								</div><br>
-							</div>
-						</div>
-					</div>
-					<div>
-						
-					</div>
-				</div>
+			<div class="col-sm-7 imge_b">
+				<h3 style="border-bottom: 1px solid #333333;color: red">Cá Vòi Voi</h3>
+				<p>
+					Tên khoa học:Gnathonemus petersii<br>
+					- Phân bố: Châu Phi<br>
+
+					- Chiều dài cá (cm): 35<br>
+
+					- Nhiệt độ nước (C): 24 – 28<br>
+
+					- Độ cứng nước (dH): 5 – 15<br>
+
+					- Độ pH: 6,0 – 7,5<br>
+
+					- Tính ăn: Ăn động vật<br>
+
+					- Hình thức sinh sản: Đẻ trứng<br>
+
+					
+					Tầng nước ở: Cá vòi voi là loài cá sống ở tầng đáy<br>
+					Sinh sản: Cá chưa sinh sản nhân tạo
+									</p>
 			</div>
 		</div>
 	</div>
+	<div class="bottom_a"></div>
 
+	
 	<div class="footer_end">
 		<div class="container-fluid">
 			<h3 style="font-weight: normal ; font-size: 40px;text-align: center;">Sea Life Tourism</h3>
-			<div class="">
+			<div class="row">
 				<div class="col-sm-4">
 					<p style="text-align: center;">Cảm ơn mọi người đã quan tâm đến Sea Life Tourism</p>
 				</div>

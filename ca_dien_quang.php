@@ -9,16 +9,11 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
 	<link rel="stylesheet" type="text/css" href="SeaLifeTourism.css">
-	<style type="text/css">
-		
-		
-	</style>
+	
 </head>
-<body style="background-image: none;">
+<body>
 
-	<!-- menu_bar -->
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container-fluid" id="menu">
 		    <div class="navbar-header">
@@ -61,63 +56,35 @@
 		</div>
 	</nav>
 	<div class="abc"></div>
-	<br/>	
-
-	<div class="body-content" style="min-height: 400px;background-color: #eee">
-		<div class="contaier jumbotron">
-			<div class="title">
-				<h3 style="text-align: center;font-weight: bold">KIỂM TRA ĐƠN BOOKING</h3>
+	<br/><br/><br/><br/>	
+	
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-5 imge_a">
+				<img src="image/ca_dien_quang.jpg">
 			</div>
-			<div class="">
-				<div class="col-md-7 ">
-					<div class="container">
-						<div class="">
-							<div class="col-sm-12">
-								<i class="fa fa-file-text-o"></i>&nbsp;	<span>Mã đơn:</span>
-							</div>
-						</div>
-						<table class="table col-sm-6" style="background-color: #fff">
-							<thead>
-								<tr>
-									<th>abc</th>
-									<th>abc</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>adasd</td>
-									<td>adasd</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</div>
-				<div class="col-md-5 ">
-					<div class="">
-						<div class="container">
-							<div class="">
-								<div class="col-sm-12" >
-									<span>Mã Giảm Giá :</span>
-									<div>
-										<input type="text" class="form-control" name="" placeholder="nhap ma" style="width: 60%;float: left">
-										<button type="button" class="btn btn-danger">Áp Dụng</button>
-									</div>
-								</div><br>
-							</div>
-						</div>
-					</div>
-					<div>
-						
-					</div>
-				</div>
+			<div class="col-sm-7 imge_b">
+				<h3 style="border-bottom: 1px solid #333333;color: red">Cá Điện Quang</h3>
+				<p>
+					Tên khoa học : Nandopsis Octofasciatum<br>
+					Phân bố : Nam và Trung Mỹ<br>
+					Kích thước hồ nuôi: 180L-300L<br> 
+					Nhiệt Độ : 26-30 (C)<br>
+					pH : 6.0-8.0<br>
+					Thức ăn: trùn , cá nhỏ, thức ăn đông lạnh<br>
+					THời gian sống: 10-15 năm<br>
+					Về hình thức sinh sản loài Electric Blue Jack rất khó sinh sản vì chúng khi giao phối cùng với gen electric sẽ gây đột biến, dị tật không mong muốn. Để có thể sinh sản những cá thể có màu sắc đẹp rực rỡ,khỏe mạnh hơn hãy chọn một cá thể thường và một cá thể mang gen electric và tỉ lệ cá bột có gen electric là 25%, phải luôn luôn quan sát để bắt tách riêng cá ra . Đặc điểm để nhận biết khi cá 2-3 tuần tuổi tìm những con cá nhỏ, bơi yếu hơn so với những con còn lại ra hồ dưỡng và cho cá ăn artemia mới nở.
+				</p>
 			</div>
 		</div>
 	</div>
+	<div class="bottom_a"></div>
 
+	
 	<div class="footer_end">
 		<div class="container-fluid">
 			<h3 style="font-weight: normal ; font-size: 40px;text-align: center;">Sea Life Tourism</h3>
-			<div class="">
+			<div class="row">
 				<div class="col-sm-4">
 					<p style="text-align: center;">Cảm ơn mọi người đã quan tâm đến Sea Life Tourism</p>
 				</div>

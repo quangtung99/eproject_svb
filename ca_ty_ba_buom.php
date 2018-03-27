@@ -9,16 +9,11 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
 	<link rel="stylesheet" type="text/css" href="SeaLifeTourism.css">
-	<style type="text/css">
-		
-		
-	</style>
+	
 </head>
-<body style="background-image: none;">
+<body>
 
-	<!-- menu_bar -->
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container-fluid" id="menu">
 		    <div class="navbar-header">
@@ -61,63 +56,36 @@
 		</div>
 	</nav>
 	<div class="abc"></div>
-	<br/>	
-
-	<div class="body-content" style="min-height: 400px;background-color: #eee">
-		<div class="contaier jumbotron">
-			<div class="title">
-				<h3 style="text-align: center;font-weight: bold">KIỂM TRA ĐƠN BOOKING</h3>
+	<br/><br/><br/><br/>	
+	
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-5 imge_a">
+				<img src="image/ca_ty_ba_buom.jpg">
 			</div>
-			<div class="">
-				<div class="col-md-7 ">
-					<div class="container">
-						<div class="">
-							<div class="col-sm-12">
-								<i class="fa fa-file-text-o"></i>&nbsp;	<span>Mã đơn:</span>
-							</div>
-						</div>
-						<table class="table col-sm-6" style="background-color: #fff">
-							<thead>
-								<tr>
-									<th>abc</th>
-									<th>abc</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>adasd</td>
-									<td>adasd</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</div>
-				<div class="col-md-5 ">
-					<div class="">
-						<div class="container">
-							<div class="">
-								<div class="col-sm-12" >
-									<span>Mã Giảm Giá :</span>
-									<div>
-										<input type="text" class="form-control" name="" placeholder="nhap ma" style="width: 60%;float: left">
-										<button type="button" class="btn btn-danger">Áp Dụng</button>
-									</div>
-								</div><br>
-							</div>
-						</div>
-					</div>
-					<div>
-						
-					</div>
-				</div>
+			<div class="col-sm-7 imge_b">
+				<h3 style="border-bottom: 1px solid #333333;color: red">Cá Tỳ Bà Bướm</h3>
+				<p>
+					Kích thước: 5 – 20cm<br>
+					Màu sắc: da beo <br>
+					Điều kiện sống: độ pH nước 6.5 - 7.5, nhiệt độ 25 – 30oC.<br>
+					Thức ăn : Cá Tỳ Bà Bướm chuyên ăn rêu hại, hoặc thức ăn cám cho cá<br>
+					Cộng đồng: Cá Tỳ Bà Bướm là loài cá ăn rêu vì vậy rất hiền, có thể nuôi chung với các loài cá thủy sinh dễ đẻ hoặc tép<br>
+					Sinh sản: khó đẻ, cá Tỳ Bà Bướm chỉ đẻ trong môi trường thích hợp, nhiệt độ nước mát, và đầy rêu<br>
+					Giới tính: Không có đặc điểm phân biệt rõ ràng<br>
+	
+					Quan hệ: Sống hòa bình với nhiều loại cá khác
+									</p>
 			</div>
 		</div>
 	</div>
+	<div class="bottom_a"></div>
 
+	
 	<div class="footer_end">
 		<div class="container-fluid">
 			<h3 style="font-weight: normal ; font-size: 40px;text-align: center;">Sea Life Tourism</h3>
-			<div class="">
+			<div class="row">
 				<div class="col-sm-4">
 					<p style="text-align: center;">Cảm ơn mọi người đã quan tâm đến Sea Life Tourism</p>
 				</div>
