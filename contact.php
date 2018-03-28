@@ -102,27 +102,44 @@
 				<form  method="post" class="box_form">
 					<div class="form-group">
 						<label for="name">Họ và Tên:</label>
-						<input type="text" class="form-control" id="name" required>
+						<input type="text" class="form-control" name="name" required>
 					</div>
 					<div class="form-group">
 						<label for="email">Email:</label>
-						<input type="email" class="form-control" id="email" required>
+						<input type="email" class="form-control" name="email" required>
 					</div>
 					<div class="form-group">
 						<label for="sub">Tiêu đề:</label>
-						<input type="text" class="form-control" id="sub" required>
+						<input type="text" class="form-control" name="sub" required>
 					</div>
 					<div class="form-group">
 						<label for="content">Nội Dung:</label>
-						<textarea class="form-control" s="7" id="content" required></textarea>
+						<textarea class="form-control" s="7" name="contents" required></textarea>
 					</div>
-					<button type="submit" class="btn btn-info" style="width: 100%;color: white;" id="submit">Gửi cho chúng tôi</button>					
+					<button type="submit" class="btn btn-info" style="width: 100%;color: white;" name="submit">Gửi cho chúng tôi</button>	
 				</form>
+		<?php
+			if (isset($_REQUEST["submit"])) {
+				$fullname = $_REQUEST["name"];
+				$email    = $_REQUEST["email"];
+				$sub      = $_REQUEST["sub"];
+				$contents  = $_REQUEST["contents"];
+
+				$connect = mysql_connect('localhost' , 'root' , '' );
+				mysql_select_db('project', $connect);
+
+				$into = "INSERT INTO contact(FULL_NAME, EMAIL, TITLE, CONTENT) VALUES ('".$fullname."','".$email."','".$sub."','".$contents."')";
+				mysql_query($into , $connect);
+
+				mysql_close($connect);
+			}
+
+		?>
 			</div>
 			<div class="col-sm-3"></div>
 		</div>
 	</div>
-
+	
 	<div>
 		<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCqTkK7mAsOZJvt9_LdcSP-71TabfX5-Lg'></script>
 		<div style='overflow:hidden;'>
