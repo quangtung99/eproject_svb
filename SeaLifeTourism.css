@@ -33,14 +33,11 @@
 	  	
 	}
 	nav li a span:hover{
-<<<<<<< HEAD
 		padding:10px;
-=======
 		background-color: white;
 		padding:10px;
 		border-radius: 5px;
 		color:black;
->>>>>>> 2bc348f542806f6123db80a34ee2fce94a9bb5a8
 	}
 	img {
 		height:505px;
