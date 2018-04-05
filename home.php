@@ -190,7 +190,7 @@
 					</div>
 				</div>
 			</div>
-			<a href="" style="display: table; margin:auto;">
+			<a href="information.php" style="display: table; margin:auto;">
 			<button class="button" style="vertical-align:middle;"><span>Xem Thêm</span></button>
 			</a><br>
 		</div>
@@ -226,7 +226,7 @@
 			</div>
 		</div>
 
-		<a href="" style="display: table; margin:auto;">
+		<a href="event.php" style="display: table; margin:auto;">
 			<button class="button" style="vertical-align:middle;"><span>Xem Thêm</span></button>
 		</a><br>
 	</div>
@@ -279,7 +279,6 @@
 				$("html,body").animate( { scrollTop:0}, 800)
 			});
 		});
-
 	</script>
 </body>
 </html>
