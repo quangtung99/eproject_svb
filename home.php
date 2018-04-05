@@ -203,7 +203,7 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="thumbnail"> 
-						<a href="event_1.php" target="_self" style="text-decoration:none;"	>
+						<a href="event_home1.php" target="_self" style="text-decoration:none;"	>
 							<img src="photo_imge/imge_2.jpg" alt="">
 							<p >Cá mập! Đằng sau những cảnh Tour<br>
 							22 Tháng 3, 2018, 1:30 chiều - 3:00 chiều<br>
@@ -214,7 +214,7 @@
 
 				<div class="col-sm-6">
 					<div class="thumbnail"> 
-						<a href="event_2.php" target="_self" style="text-decoration:none;"	>
+						<a href="event_home2.php" target="_self" style="text-decoration:none;"	>
 							<img src="photo_imge/event1.jpg" alt="">
 							<p>Cuộc thảo luận về nhà giáo dục - Blacktip Reef Cấp bậc 1<br>
 							Thứ Năm, 22 Tháng 3 Năm 2018, 10:15 sáng<br>

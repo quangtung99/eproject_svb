@@ -1,4 +1,4 @@
-	*{
+		*{
 	font-size: 20px;
 	}
 	#menu {
@@ -33,7 +33,7 @@
 	  	color:white;
 	}
 	nav li a span:hover{
-		padding:20px;
+		padding:10px;
 	}
 	img {
 		height:505px;

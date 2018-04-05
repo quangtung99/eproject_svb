@@ -61,20 +61,23 @@
 		<div class="col-sm-8">
 			<div class="panel panel-info">
 				<div class="panel-heading" style="text-align: center;">
-					<h3>Cuộc thảo luận về nhà giáo dục - Blacktip Reef Cấp bậc 1</h3>
-					<p>Scenes - 1:30PM Thứ sáu, ngày 23 tháng 3 năm 2018, 10:15 sáng - 10:45 sáng</p>
+					<h3>Hè rồi ! Đi thủy cung tham quan ngay thôi !</h3>
+					<p>Sự kiện kéo dài tới hết 15/04</p>
 				</div>
 				<div class="panel-body">
-					<img src="photo_imge/event1.jpg" style="width:100%;height: auto;">
+					<img src="image/event2.jpg" alt="" style="width:100%;height: auto;">
 				</div>
 				<div class="panel-footer">
-					<p>
-				Bạn có thể ngạc nhiên khi biết rằng rạn san hô chia sẻ rất nhiều với các thành phố đô thị. Tham gia Nhà tư vấn về Aquarium của chúng tôi sẽ thảo luận về  đỉnh rạn của rặng san hô của triển lãm Blacktip Reef để khám phá những gì chúng tôi có chung với những động vật sống trong môi trường sống độc đáo này.<br><br>
-				<b>Mô tả Tour:</b> <br><br>
-				Bao giờ tự hỏi những gì đi về phía sau hậu trường tại Aquarium? Đây là cơ hội của bạn để bước vào câu chuyện của chúng tôi và xem Aquarium một cách hoàn toàn mới. Trong trải nghiệm tuyệt vời này, bạn sẽ khám phá các cuộc triển lãm của chúng tôi với một trong những chuyên gia của chúng tôi.
+					<p><strong>Hè này bạn đã biết đi chơi ở đâu chưa ?</strong><br><br>
+				Nếu còn phân vân chưa biết hè này đi đâu cùng bạn bè và gia đình thì hãy tham gia ngay sự kiện ưu đãi nhất trong năm nào !<br><br>
+				<strong>Đến Sea Life Tourism chơi những gì ?</strong><br><br>Tất cả người tham gia phải từ 8 tuổi trở lên để tham gia vào chương trình này. Tiền hoàn lại sẽ không được cấp cho những người không đáp ứng các yêu cầu về tuổi.<br><br>
+				Thời gian: 2 giờ<br>
+				Mô tả Tour: <br>
+				Bạn sẽ được đắm mình vào đại dương bao la với đủ các loài sinh vật biển, thân thiện có , hung dữ cũng có ! Bạn có dám liều lĩnh đối mặt với những " hung thần biển cả " ?
 				<br><br>
-				Hướng dẫn của bạn sẽ chia sẻ những câu chuyện thú vị về thú vật của chúng ta và môi trường sống mà họ gọi là nhà, dẫn bạn đến các khu vực chuyên biệt chỉ dành riêng cho nhân viên, đưa bạn đến gần với một trong những cư dân động vật của chúng tôi và nhiều hơn nữa.<br><br>
-				Vì vậy, tham gia chúng tôi và trở thành một người trong ngành cá cảnh-bạn sẽ không bao giờ trải nghiệm Thủy cung Quốc gia theo cùng một cách nữa!</p>
+				Thủy cung Sea Life Tourism hội tụ hơn 10.000 cá thể, sinh vật biển.<br><br>
+				Thuỷ cung mở cửa đón khách tất cả các ngày trong tuần từ 9h30 - 22h.</p><br>
+				<p>Đến với thủy cung tại Sea Life Tourism du khách chắc chắn sẽ rất thích thú trước những thiết kế mới lạ, say đắm chiêm ngưỡng những loài cá, sinh vật biển đa dạng chỉ có tại nơi đây.</p>
 				</div>
 			</div>		
 		</div>
@@ -129,5 +132,25 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="go_up">
+		<div class="thetop"><i class="fa fa-arrow-up"></i></div>
+	</div>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(window).scroll(function(){
+				if($(this).scrollTop() > 200 ){
+					$('.go_up').fadeIn();
+					} else {
+						$('.go_up').fadeOut();
+					}	
+					
+			});
+			$('.go_up').click(function(){
+				$("html,body").animate( { scrollTop:0}, 800)
+			});
+		});
+
+	</script>
 </body>
 </html>

@@ -61,19 +61,17 @@
 		<div class="col-sm-8">
 			<div class="panel panel-info">
 				<div class="panel-heading" style="text-align: center;">
-					<h3>Sự kiện chào hè dành cho các bạn nhỏ dưới 12 tuổi</h3>
-					<p>Từ 10/03 đến 20/03</p>
+					<h3>Cơ hội được quan sát những sinh vật khổng lồ ngoài đại dương</h3>
+					<p>- Tour thứ 7 hàng tuần -</p>
 				</div>
 				<div class="panel-body">
-					<img src="image/event1.jpg" alt="" style="width:100%;height: auto;">
+					<img src="image/event6.jpg" alt="" style="width:100%;height: auto;">
 				</div>
 				<div class="panel-footer">
-					<center><p><b>Chào mừng ngày hè sôi động dành riêng cho các em nhỏ dưới 12 tuổi </p></b></center>
-<p>Đây là là một hoạt động thường niên do Sea Life Tourism phối hợp cùng HM media tổ chức mục đích vừa là để tạo nên một sân chơi vui vẻ, bổ ích cho các bé thiếu nhi vừa thể hiện sự tri ân của Sea Life Tourism dành cho khách hàng, những người đã tin tưởng, ủng hộ, lựa chọn dự án mang thương hiệu Sea Life Tourism làm nơi vui chơi cho các bé trong suốt thời gian qua.</p>
-<p>Chương trình năm nay chắc chắn sẽ thu hút rất đông các bạn nhỏ tới tham gia với nhiều trò chơi như vặn bóng nghệ thuật, xiếc; ảo thuật; ca múa văn nghệ trong thủy cung …trong tâm trạng vui vẻ và háo hức. Các bé trầm trồ trước những pha tung hứng điêu nghệ trên không, những pha gây cười của các nghệ sĩ hay tiết mục biểu diễn ảo thuật, xiếc cá heo đặc sắc và tham gia nhiều trò chơi giao lưu vui nhộn. Không khí vui tươi, tiếng cười rộn ràng của trẻ thơ tràn ngập khắp không gian buổi lễ.</p>
-
-<h4 style="color: red"><b><center>Chúng tôi xin trân trọng cảm ơn !</center></b></h4>
-<p></p>
+					<p><strong>Cơ hội được quan sát những sinh vật khổng lồ ngoài đại dương</strong><br><br>
+				( Thành viên Aquarium Quốc gia có thể tiết kiệm cho các tour du lịch ngâm. Vui lòng gọi số 410-576-3833 để mua hàng với một khoản giảm giá thành viên.)<br><br>
+				Đến với Tourism , sẽ thật thiếu xót nếu bạn bỏ qua khu vực của những sinh vật khổng lồ dưới đại dương. Bạn sẽ được thỏa sức ngắm nhìn những chú cá voi trắng , cá heo , cá đuối ... 
+				Hơn nữa, hồ cá ở đây được ngăn bằng hệ thống kè đá san hô đủ cao để mực nước trong hồ bao giờ cũng ngang với mực nước biển. Giữa các hồ cá là những lối đi rộng được lát bằng đá núi hoặc bê tông. Vào Thủy cung Sea Life Tourism , du khách như lạc vào cung điện của vua Thủy tề với hệ động thực vật khác vô cùng hấp dẫn, lạ mắt.
 				</div>
 			</div>		
 		</div>

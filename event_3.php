@@ -61,19 +61,17 @@
 		<div class="col-sm-8">
 			<div class="panel panel-info">
 				<div class="panel-heading" style="text-align: center;">
-					<h3>Sự kiện chào hè dành cho các bạn nhỏ dưới 12 tuổi</h3>
-					<p>Từ 10/03 đến 20/03</p>
+					<h3>Hè này gia đình bạn sẽ đi đâu ?</h3>
+					<p>Ưu đãi ngày cuối tuần</p>
 				</div>
 				<div class="panel-body">
-					<img src="image/event1.jpg" alt="" style="width:100%;height: auto;">
+					<img src="image/event3.jpg" alt="" style="width:100%;height: auto;">
 				</div>
 				<div class="panel-footer">
-					<center><p><b>Chào mừng ngày hè sôi động dành riêng cho các em nhỏ dưới 12 tuổi </p></b></center>
-<p>Đây là là một hoạt động thường niên do Sea Life Tourism phối hợp cùng HM media tổ chức mục đích vừa là để tạo nên một sân chơi vui vẻ, bổ ích cho các bé thiếu nhi vừa thể hiện sự tri ân của Sea Life Tourism dành cho khách hàng, những người đã tin tưởng, ủng hộ, lựa chọn dự án mang thương hiệu Sea Life Tourism làm nơi vui chơi cho các bé trong suốt thời gian qua.</p>
-<p>Chương trình năm nay chắc chắn sẽ thu hút rất đông các bạn nhỏ tới tham gia với nhiều trò chơi như vặn bóng nghệ thuật, xiếc; ảo thuật; ca múa văn nghệ trong thủy cung …trong tâm trạng vui vẻ và háo hức. Các bé trầm trồ trước những pha tung hứng điêu nghệ trên không, những pha gây cười của các nghệ sĩ hay tiết mục biểu diễn ảo thuật, xiếc cá heo đặc sắc và tham gia nhiều trò chơi giao lưu vui nhộn. Không khí vui tươi, tiếng cười rộn ràng của trẻ thơ tràn ngập khắp không gian buổi lễ.</p>
-
-<h4 style="color: red"><b><center>Chúng tôi xin trân trọng cảm ơn !</center></b></h4>
-<p></p>
+					<p><strong>Đối tượng được hưởng ưu đãi : Gia đình</strong><br><br>
+						Với sự kiện chào hè đầy sôi động, trên hành trình gần 300m khám phá Sea Life Tourism, gia đình sẽ bắt đầu chuyến đi đầy hào hứng với khu vực cá nước ngọt được thiết kế mô phỏng khu rừng nhiệt đới ẩm thấp. Tại đây, du khách sẽ bước vào một không gian nhiệt đới huyền bí hệt như trong phim khi bắt gặp những thân cây cổ thụ sừng sững bên cạnh các loại dây leo, dòng thác chảy xiết từ thượng nguồn xuống hạ lưu và chiêm ngưỡng những loài cá nước ngọt to lớn có nguồn gốc từ lưu vực sông Amazon (Nam Mỹ) như cá Hải tượng, cá Sấu hỏa tiễn với chiếc mõm dài và hung dữ. Bên cạnh đó là đàn cá Đĩa hiền lành nhút nhát nhiều màu sắc, đàn cá Rồng hắc long tượng trưng cho sự may mắn hay các loài cá Chép có nguồn gốc từ Nhật Bản như cá Chép Koi và cá Chép Phụng đủ màu sắc…<br><br>
+						<h3 style="color: green">Còn chần chừ gì mà không đăng kí ngay để nhận ưu đãi cho gia đình bạn !</h3>
+					</p>
 				</div>
 			</div>		
 		</div>

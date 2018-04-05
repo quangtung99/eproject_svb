@@ -61,19 +61,20 @@
 		<div class="col-sm-8">
 			<div class="panel panel-info">
 				<div class="panel-heading" style="text-align: center;">
-					<h3>Sự kiện chào hè dành cho các bạn nhỏ dưới 12 tuổi</h3>
-					<p>Từ 10/03 đến 20/03</p>
+					<h3>Cuộc thảo luận về nhà giáo dục - Blacktip Reef Cấp bậc 1</h3>
+					<p>Scenes - 1:30PM Thứ sáu, ngày 23 tháng 3 năm 2018, 10:15 sáng - 10:45 sáng</p>
 				</div>
 				<div class="panel-body">
-					<img src="image/event1.jpg" alt="" style="width:100%;height: auto;">
+					<img src="photo_imge/event1.jpg" style="width:100%;height: auto;">
 				</div>
 				<div class="panel-footer">
-					<center><p><b>Chào mừng ngày hè sôi động dành riêng cho các em nhỏ dưới 12 tuổi </p></b></center>
-<p>Đây là là một hoạt động thường niên do Sea Life Tourism phối hợp cùng HM media tổ chức mục đích vừa là để tạo nên một sân chơi vui vẻ, bổ ích cho các bé thiếu nhi vừa thể hiện sự tri ân của Sea Life Tourism dành cho khách hàng, những người đã tin tưởng, ủng hộ, lựa chọn dự án mang thương hiệu Sea Life Tourism làm nơi vui chơi cho các bé trong suốt thời gian qua.</p>
-<p>Chương trình năm nay chắc chắn sẽ thu hút rất đông các bạn nhỏ tới tham gia với nhiều trò chơi như vặn bóng nghệ thuật, xiếc; ảo thuật; ca múa văn nghệ trong thủy cung …trong tâm trạng vui vẻ và háo hức. Các bé trầm trồ trước những pha tung hứng điêu nghệ trên không, những pha gây cười của các nghệ sĩ hay tiết mục biểu diễn ảo thuật, xiếc cá heo đặc sắc và tham gia nhiều trò chơi giao lưu vui nhộn. Không khí vui tươi, tiếng cười rộn ràng của trẻ thơ tràn ngập khắp không gian buổi lễ.</p>
-
-<h4 style="color: red"><b><center>Chúng tôi xin trân trọng cảm ơn !</center></b></h4>
-<p></p>
+					<p>
+				Bạn có thể ngạc nhiên khi biết rằng rạn san hô chia sẻ rất nhiều với các thành phố đô thị. Tham gia Nhà tư vấn về Aquarium của chúng tôi sẽ thảo luận về  đỉnh rạn của rặng san hô của triển lãm Blacktip Reef để khám phá những gì chúng tôi có chung với những động vật sống trong môi trường sống độc đáo này.<br><br>
+				<b>Mô tả Tour:</b> <br><br>
+				Bao giờ tự hỏi những gì đi về phía sau hậu trường tại Aquarium? Đây là cơ hội của bạn để bước vào câu chuyện của chúng tôi và xem Aquarium một cách hoàn toàn mới. Trong trải nghiệm tuyệt vời này, bạn sẽ khám phá các cuộc triển lãm của chúng tôi với một trong những chuyên gia của chúng tôi.
+				<br><br>
+				Hướng dẫn của bạn sẽ chia sẻ những câu chuyện thú vị về thú vật của chúng ta và môi trường sống mà họ gọi là nhà, dẫn bạn đến các khu vực chuyên biệt chỉ dành riêng cho nhân viên, đưa bạn đến gần với một trong những cư dân động vật của chúng tôi và nhiều hơn nữa.<br><br>
+				Vì vậy, tham gia chúng tôi và trở thành một người trong ngành cá cảnh-bạn sẽ không bao giờ trải nghiệm Thủy cung Quốc gia theo cùng một cách nữa!</p>
 				</div>
 			</div>		
 		</div>
