@@ -61,19 +61,19 @@
 		<div class="col-sm-8">
 			<div class="panel panel-info">
 				<div class="panel-heading" style="text-align: center;">
-					<h3>Sự kiện chào hè dành cho các bạn nhỏ dưới 12 tuổi</h3>
-					<p>Từ 10/03 đến 20/03</p>
+					<h3>Thử tiếp xúc với các sinh vật đại dương nào !</h3>
+					<p>- Chuyến tham quan thực tế đầy sinh động -</p>
 				</div>
 				<div class="panel-body">
-					<img src="image/event1.jpg" alt="" style="width:100%;height: auto;">
+					<img src="image/event5.jpg" alt="" style="width:100%;height: auto;">
 				</div>
 				<div class="panel-footer">
-					<center><p><b>Chào mừng ngày hè sôi động dành riêng cho các em nhỏ dưới 12 tuổi </p></b></center>
-<p>Đây là là một hoạt động thường niên do Sea Life Tourism phối hợp cùng HM media tổ chức mục đích vừa là để tạo nên một sân chơi vui vẻ, bổ ích cho các bé thiếu nhi vừa thể hiện sự tri ân của Sea Life Tourism dành cho khách hàng, những người đã tin tưởng, ủng hộ, lựa chọn dự án mang thương hiệu Sea Life Tourism làm nơi vui chơi cho các bé trong suốt thời gian qua.</p>
-<p>Chương trình năm nay chắc chắn sẽ thu hút rất đông các bạn nhỏ tới tham gia với nhiều trò chơi như vặn bóng nghệ thuật, xiếc; ảo thuật; ca múa văn nghệ trong thủy cung …trong tâm trạng vui vẻ và háo hức. Các bé trầm trồ trước những pha tung hứng điêu nghệ trên không, những pha gây cười của các nghệ sĩ hay tiết mục biểu diễn ảo thuật, xiếc cá heo đặc sắc và tham gia nhiều trò chơi giao lưu vui nhộn. Không khí vui tươi, tiếng cười rộn ràng của trẻ thơ tràn ngập khắp không gian buổi lễ.</p>
-
-<h4 style="color: red"><b><center>Chúng tôi xin trân trọng cảm ơn !</center></b></h4>
-<p></p>
+					<p><strong>Các cô chưa biết cho các bé tham quan thực tế ở đâu thì đừng bỏ qua bài viết này !</strong><br><br>
+				Với mong muốn giúp cho các em có sự cảm nhận sinh động nhất về các loài sinh vật biển, Sea Life Tourism kết hợp với các nhà nghiên cứu giáo dục đã tung ra Voucher áp dụng cho “Vé tham quan thủy cung trẻ em khu vực các trường trong thành phố ”.<br>
+Thủy cung Sea Life Tourism có diện tích gần 3,200m2, dung tích chứa gần 2 triệu lít nước biển, là nơi hội tụ của hơn 10,000 cá thể sinh vật từ “năm châu bốn biển”. <br><br>
+Các khu vực tham quan: Khu vực Cá nước ngọt, khu vực hang động - bò sát, khu vực cá nước mặn với nhiều sinh vật lần đầu tiên xuất hiện tại Việt Nam như: Trăn vàng, Chim cánh cụt, cá Mập…<br>
+Bước vào không gian Đại dương bao la xanh thẳm, du khách khám phá tận cùng với các góc độ và những hoạt động của sự sống dưới đáy đại dương, các rạn san hô nhiệt đới hay những rạn đá ngầm dốc đứng cùng vô vàn loài cá sặc sỡ.<br>
+Các bé cùng với hướng dẫn từ giáo viên và nhân viên ở nơi đây sẽ được chiêm ngưỡng, khám phá... hàng ngàn sinh vật biển hiện diện trước mắt cực sinh động !
 				</div>
 			</div>		
 		</div>
@@ -87,7 +87,7 @@
 					<div class="form-group has-success has-feedback">
 					    <label class="col-sm-4 control-label">Số lượng</label>
 					    <div class="col-sm-8">
-					    	<input type="text" class="form-control" placeholder="Giá vé người lớn : 45k/ng">
+					    	<input type="text" class="form-control" placeholder="Giá vé ưu đãi : 80k/ng">
 					    </div>
 					 </div>
 				</div>

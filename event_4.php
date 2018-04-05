@@ -61,19 +61,19 @@
 		<div class="col-sm-8">
 			<div class="panel panel-info">
 				<div class="panel-heading" style="text-align: center;">
-					<h3>Sự kiện chào hè dành cho các bạn nhỏ dưới 12 tuổi</h3>
-					<p>Từ 10/03 đến 20/03</p>
+					<h3>Buổi trình diễn ngoài trời đầy sôi động</h3>
+					<p>- Sáng thứ 6 cuối cùng của tháng -</p>
 				</div>
 				<div class="panel-body">
-					<img src="image/event1.jpg" alt="" style="width:100%;height: auto;">
+					<img src="image/event4.jpg" alt="" style="width:100%;height: auto;">
 				</div>
 				<div class="panel-footer">
-					<center><p><b>Chào mừng ngày hè sôi động dành riêng cho các em nhỏ dưới 12 tuổi </p></b></center>
-<p>Đây là là một hoạt động thường niên do Sea Life Tourism phối hợp cùng HM media tổ chức mục đích vừa là để tạo nên một sân chơi vui vẻ, bổ ích cho các bé thiếu nhi vừa thể hiện sự tri ân của Sea Life Tourism dành cho khách hàng, những người đã tin tưởng, ủng hộ, lựa chọn dự án mang thương hiệu Sea Life Tourism làm nơi vui chơi cho các bé trong suốt thời gian qua.</p>
-<p>Chương trình năm nay chắc chắn sẽ thu hút rất đông các bạn nhỏ tới tham gia với nhiều trò chơi như vặn bóng nghệ thuật, xiếc; ảo thuật; ca múa văn nghệ trong thủy cung …trong tâm trạng vui vẻ và háo hức. Các bé trầm trồ trước những pha tung hứng điêu nghệ trên không, những pha gây cười của các nghệ sĩ hay tiết mục biểu diễn ảo thuật, xiếc cá heo đặc sắc và tham gia nhiều trò chơi giao lưu vui nhộn. Không khí vui tươi, tiếng cười rộn ràng của trẻ thơ tràn ngập khắp không gian buổi lễ.</p>
+					<p><strong>Buổi trình diễn ngoài trời đầy sôi động</strong><br><br>
+				Nếu bạn là người yêu thích những chú cá heo tinh nghịch , thân thiện đáng yêu thì đừng bỏ lỡ sự kiện này. <br>
+				Những diễn viên chính tại Sea Life Tourism là cặp cá heo có nguồn gốc từ Nhật Bản. Chú cá heo đực tên là Rada và cá heo cái là Dainhen. Dainhen và Rada là đôi bạn thân thiết với nhau từ nhỏ. Hầu như trong các hoạt động hằng ngày, Dainhen và Rada đều thực hiện cùng nhau. Do đó, trong các màn biểu diễn, cả hai chú cá heo phối hợp rất ăn ý và nhuần nhuyễn theo chỉ dẫn của huấn luyện viên.<br><br>
 
-<h4 style="color: red"><b><center>Chúng tôi xin trân trọng cảm ơn !</center></b></h4>
-<p></p>
+	
+				Khu biểu diễn cá heo là khu vực được đầu tư để có thể thực hiện được những màn biểu diễn cá heo và sinh vật biển đặc biệt, mang lại cho người xem nhiều sự bất ngờ. Dưới sự chỉ đạo của các huấn luyện viên người Nga và người Việt - những người cực kì thân thiết với các chú cá heo, khán giả sẽ được thưởng thức những màn nhào lộn, nhảy múa hấp dẫn và nghe giọng ca trong trẻo của hai chú cá heo đáng yêu ở Sea Life Tourism.    
 				</div>
 			</div>		
 		</div>

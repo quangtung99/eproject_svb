@@ -58,30 +58,57 @@
 	<div><br><br><br><br></div>
 
 	<div class="container-fluid">
-		<div class="col-sm-8">
-			<div class="panel panel-info">
-				<div class="panel-heading" style="text-align: center;">
-					<h3>Sự kiện chào hè dành cho các bạn nhỏ dưới 12 tuổi</h3>
-					<p>Từ 10/03 đến 20/03</p>
-				</div>
-				<div class="panel-body">
-					<img src="image/event1.jpg" alt="" style="width:100%;height: auto;">
-				</div>
-				<div class="panel-footer">
-					<center><p><b>Chào mừng ngày hè sôi động dành riêng cho các em nhỏ dưới 12 tuổi </p></b></center>
-<p>Đây là là một hoạt động thường niên do Sea Life Tourism phối hợp cùng HM media tổ chức mục đích vừa là để tạo nên một sân chơi vui vẻ, bổ ích cho các bé thiếu nhi vừa thể hiện sự tri ân của Sea Life Tourism dành cho khách hàng, những người đã tin tưởng, ủng hộ, lựa chọn dự án mang thương hiệu Sea Life Tourism làm nơi vui chơi cho các bé trong suốt thời gian qua.</p>
-<p>Chương trình năm nay chắc chắn sẽ thu hút rất đông các bạn nhỏ tới tham gia với nhiều trò chơi như vặn bóng nghệ thuật, xiếc; ảo thuật; ca múa văn nghệ trong thủy cung …trong tâm trạng vui vẻ và háo hức. Các bé trầm trồ trước những pha tung hứng điêu nghệ trên không, những pha gây cười của các nghệ sĩ hay tiết mục biểu diễn ảo thuật, xiếc cá heo đặc sắc và tham gia nhiều trò chơi giao lưu vui nhộn. Không khí vui tươi, tiếng cười rộn ràng của trẻ thơ tràn ngập khắp không gian buổi lễ.</p>
+		<?php
+			$connect = mysqli_connect('localhost', 'root','','eproject');
+				if(isset($_REQUEST['id'])){
+					$get_id = $_REQUEST['id'];
+					$get_values = "SELECT * FROM post_event WHERE id='".$get_id."'";
+					$value = mysqli_query($connect , $get_values);
+					while ($record = mysqli_fetch_array($value , MYSQLI_ASSOC)) {
+						echo '
+							<div class="col-sm-8">
+								<div class="panel panel-info">
+									<div class="panel-heading" style="text-align: center;">
+										<h3>'.$record['TITLE_EVENT1'].'</h3>
+										<p>'.$record['TITLE_EVENT2'].'</p>
+									</div>
 
-<h4 style="color: red"><b><center>Chúng tôi xin trân trọng cảm ơn !</center></b></h4>
-<p></p>
-				</div>
-			</div>		
-		</div>
+									<div class="panel-body">
+										<img src="'.$record['IMG_EVENT'].'" alt="" style="width:100%;height: auto;">
+									</div>
+
+									<div class="panel-footer">
+										<center><p><b>'.$record['CONTENT_EVENT1'].'</p></b></center>
+										<p>'.$record['CONTENT_EVENT2'].'</p>
+									</div>
+								</div>
+							</div>';
+							}
+								}
+			mysqli_close($connect);
+
+							?>				 	
 
 		<div class="col-sm-4">
 			<div class="panel panel-danger">
 				<div class="panel-heading">
 					<h3 style="text-align: center; padding-top: 19px; padding-bottom: 18px">GIÁ VÉ</h3>
+					<h4><center>Price : 
+						<?php
+							$connect1 = mysqli_connect('localhost', 'root','','eproject');
+							if(isset($_REQUEST['id'])) {
+							$get_id = $_REQUEST['id'];
+							$get_value = "SELECT * FROM post_event ";
+							$value = mysqli_query($connect1 , $get_value);
+								while ($record = mysqli_fetch_array($value , MYSQLI_ASSOC)) {
+								echo	' <span>'.'$'.$record['PRICE'].'</span>
+									 ';
+									}
+
+						}
+						mysqli_close($connect1);
+						?>
+					</center></h4>
 				</div>
 				<div class="panel-body">
 					<div class="form-group has-success has-feedback">
@@ -96,6 +123,7 @@
 				</div>
 			</div>
 		</div>
+
 	</div>
 
 	<div class="footer_end">
@@ -146,7 +174,6 @@
 				$("html,body").animate( { scrollTop:0}, 800)
 			});
 		});
-
 	</script>
 </body>
 </html>

@@ -199,6 +199,7 @@
 	<!-- List of event -->
 	<div class="container-fluid">
 		<h2 style="border-bottom: 1px solid #ccc!important; padding-bottom:20px!important;font-weight: bold">Event</h2>
+<<<<<<< HEAD
 		<div style="background-color:#87CEFF;border-radius: 15px;padding-top: 10px">
 			<div class="container" style="margin-top: 30px">
 				<div class="row">
@@ -211,8 +212,21 @@
 								Hãy thoải mái gần với những kẻ săn mồi trong vùng sâu.</p>
 							</a>
 						</div>
+=======
+		<div class="container" style="margin-top: 30px">
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="thumbnail"> 
+						<a href="event_home1.php" target="_self" style="text-decoration:none;"	>
+							<img src="photo_imge/imge_2.jpg" alt="">
+							<p >Cá mập! Đằng sau những cảnh Tour<br>
+							22 Tháng 3, 2018, 1:30 chiều - 3:00 chiều<br>
+							Hãy thoải mái gần với những kẻ săn mồi trong vùng sâu.</p>
+						</a>
+>>>>>>> 1eb95d6941a982db9ba6da449c56354a6764e8a1
 					</div>
 
+<<<<<<< HEAD
 					<div class="col-sm-6">
 						<div class="thumbnail"> 
 							<a href="event_2.php" target="_self" style="text-decoration:none;"	>
@@ -223,6 +237,17 @@
 							</a>
 							
 						</div>
+=======
+				<div class="col-sm-6">
+					<div class="thumbnail"> 
+						<a href="event_home2.php" target="_self" style="text-decoration:none;"	>
+							<img src="photo_imge/event1.jpg" alt="">
+							<p>Cuộc thảo luận về nhà giáo dục - Blacktip Reef Cấp bậc 1<br>
+							Thứ Năm, 22 Tháng 3 Năm 2018, 10:15 sáng<br>
+							Khám phá những con vật sống trong rặng san hô độc nhất của chúng ta!</p>
+						</a>
+						
+>>>>>>> 1eb95d6941a982db9ba6da449c56354a6764e8a1
 					</div>
 				</div>
 			</div>

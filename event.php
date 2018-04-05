@@ -66,10 +66,27 @@
 		#bug-wrapper1 {
 		display: table;
 		margin: auto;
+<<<<<<< HEAD
 		}
 		.event_style .col-sm-6{
 			margin-bottom: 30px
 		}
+=======
+	}
+	.abc{
+		margin-bottom: 20px;
+	}
+	</style>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$(".push_id").click(function() {
+				$(this).parents("form").submit();
+			});
+		});
+	</script>
+
+
+>>>>>>> 1eb95d6941a982db9ba6da449c56354a6764e8a1
 	</style>
 </head>
 <body>
@@ -115,7 +132,7 @@
 		</div>
 	</nav>
 	<div class="abc"></div>
-	<br><br><br>
+	<br><br>
 
 
 	<div>
@@ -124,9 +141,15 @@
 	<br><br>
 
 	<div class="container-fluid">
+<<<<<<< HEAD
 		<div class="event_style">
 			<div class="col-sm-6">
 				<a href="#">
+=======
+		
+			<div class="col-sm-6 abc">
+				<a href="event_1.php">
+>>>>>>> 1eb95d6941a982db9ba6da449c56354a6764e8a1
 					<img src="image/event1.jpg" class="image">
 					<div class="middle">
 						<div class="text_event">
@@ -138,8 +161,8 @@
 				</a>
 			</div>
 
-			<div class="col-sm-6">
-				<a href="#">
+			<div class="col-sm-6 abc">
+				<a href="event_2.php">
 					<img src="image/event2.jpg" class="image">
 					<div class="middle">
 						<div class="text_event">
@@ -150,6 +173,7 @@
 					</div>
 				</a>
 			</div>
+<<<<<<< HEAD
 		</div>
 
 		<div class="event_style">
@@ -160,20 +184,39 @@
 						<i class="material-icons">error</i><br>
 						Chuyến phiêu lưu đại dương<br> DÀNH CHO GIA ĐÌNH !!!<br>
 						<i class="material-icons">error</i>
+=======
+	</div>
+
+
+	<div class="container-fluid">
+		
+			<div class="col-sm-6 abc">
+				<a href="event_3.php">
+					<img src="image/event3.jpg" class="image">
+					<div class="middle">
+						<div class="text_event">
+							<i class="material-icons">error</i><br>
+							Chuyến phiêu lưu đại dương<br> DÀNH CHO GIA ĐÌNH !!!<br>
+							<i class="material-icons">error</i>
+						</div>
+>>>>>>> 1eb95d6941a982db9ba6da449c56354a6764e8a1
 					</div>
-				</div>
+				</a>
 			</div>
 
-			<div class="col-sm-6">
-				<img src="image/event4.jpg" class="image">
-				<div class="middle">
-					<div class="text_event">
-						<i class="material-icons">add_box</i><br>
-						Buổi trình diễn đặc sắc <br> ngoài trời của cá heo <br>
-						<i class="material-icons">add_box</i>
+			<div class="col-sm-6 abc">
+				<a href="event_4.php">	
+					<img src="image/event4.jpg" class="image">
+					<div class="middle">
+						<div class="text_event">
+							<i class="material-icons">add_box</i><br>
+							Buổi trình diễn đặc sắc <br> ngoài trời của cá heo <br>
+							<i class="material-icons">add_box</i>
+						</div>
 					</div>
-				</div>
+				</a>
 			</div>
+<<<<<<< HEAD
 		</div>
 
 		<div class="event_style">
@@ -202,6 +245,37 @@
 	</div>
 
 	
+=======
+	</div>
+
+		
+	<div class="container-fluid">
+		<?php
+			$connect = mysqli_connect('localhost', 'root', '', 'eproject');
+			$query = "SELECT * FROM post_event";
+			$result = mysqli_query($connect, $query);
+			//var_dump($result);
+				while ($record= mysqli_fetch_array($result, MYSQLI_ASSOC)) {
+					//var_dump($record);
+					echo '
+						<div class="col-sm-6 abc">
+							<a href="full-content-event.php?id='.$record['ID'].'" class="push_id">	
+								<img src="'.$record['IMG_EVENT'].'" class="image">
+								<div class="middle">
+									<div class="text_event">
+										<i class="material-icons">add_box</i><br>
+											'.$record['WRAPPER_HIGHLIGHT'].' <br>
+									<i class="material-icons">add_box</i>
+									</div>
+								</div>
+							</a>
+						</div>
+					';}
+			mysqli_close($connect);
+		?>
+		
+	</div>
+>>>>>>> 1eb95d6941a982db9ba6da449c56354a6764e8a1
 
 	<div class="footer_end">
 		<div class="container-fluid">
