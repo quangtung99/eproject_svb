@@ -22,17 +22,20 @@
 			color: #9cbcd6
 		}
 		.container-fluid {
-		    position: relative;			   
-		}
+			    position: relative;
+
+			   
+			}
 
 		.image {
-		  opacity: 1;
-		  display: block;
-		  width: 100%;
-		  height: 350px;
-		  transition: .5s ease;
-		  backface-visibility: hidden;
-		}
+			  opacity: 1;
+			  display: block;
+			  width: 100%;
+			  height: 350px;
+			  transition: .5s ease;
+			  backface-visibility: hidden;
+}
+	
 
 		.middle {
 		  transition: .5s ease;
@@ -43,14 +46,17 @@
 		  transform: translate(-50%, -50%);
 		  -ms-transform: translate(-50%, -50%)
 		}
+		
 
 		.image:hover {
 		  opacity: 0.5;
 		}
 
-		.middle:hover{
-		 opacity: 1;
-		} 
+ 		.middle:hover{
+ 		 opacity: 1;
+
+} 
+
 
 		.text_event {
 		  background-color: #5bff79;
@@ -59,19 +65,13 @@
 		  font-size: 18px;
 		  border-radius: 10px;
 		  padding: 5px 5px
-		}
+}
 		#bug1 {
 			margin:0;
 		}
 		#bug-wrapper1 {
 		display: table;
 		margin: auto;
-<<<<<<< HEAD
-		}
-		.event_style .col-sm-6{
-			margin-bottom: 30px
-		}
-=======
 	}
 	.abc{
 		margin-bottom: 20px;
@@ -86,7 +86,6 @@
 	</script>
 
 
->>>>>>> 1eb95d6941a982db9ba6da449c56354a6764e8a1
 	</style>
 </head>
 <body>
@@ -141,15 +140,9 @@
 	<br><br>
 
 	<div class="container-fluid">
-<<<<<<< HEAD
-		<div class="event_style">
-			<div class="col-sm-6">
-				<a href="#">
-=======
 		
 			<div class="col-sm-6 abc">
 				<a href="event_1.php">
->>>>>>> 1eb95d6941a982db9ba6da449c56354a6764e8a1
 					<img src="image/event1.jpg" class="image">
 					<div class="middle">
 						<div class="text_event">
@@ -173,18 +166,6 @@
 					</div>
 				</a>
 			</div>
-<<<<<<< HEAD
-		</div>
-
-		<div class="event_style">
-			<div class="col-sm-6">
-				<img src="image/event3.jpg" class="image">
-				<div class="middle">
-					<div class="text_event">
-						<i class="material-icons">error</i><br>
-						Chuyến phiêu lưu đại dương<br> DÀNH CHO GIA ĐÌNH !!!<br>
-						<i class="material-icons">error</i>
-=======
 	</div>
 
 
@@ -199,7 +180,6 @@
 							Chuyến phiêu lưu đại dương<br> DÀNH CHO GIA ĐÌNH !!!<br>
 							<i class="material-icons">error</i>
 						</div>
->>>>>>> 1eb95d6941a982db9ba6da449c56354a6764e8a1
 					</div>
 				</a>
 			</div>
@@ -216,36 +196,6 @@
 					</div>
 				</a>
 			</div>
-<<<<<<< HEAD
-		</div>
-
-		<div class="event_style">
-			<div class="col-sm-6">
-				<img src="image/event5.jpg" class="image">
-				<div class="middle">
-					<div class="text_event">
-						<i class="material-icons">insert_emoticon</i><br>
-						Chạm vào sinh vật biển sống <br>Các bé dám thử không ?<br>
-						<i class="material-icons">insert_emoticon</i>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-sm-6">
-				<img src="image/event6.jpg" class="image">
-				<div class="middle">
-					<div class="text_event">
-						<i class="material-icons">check_box</i><br>
-						Cơ hội gặp những sinh vật biển <br> lớn nhất đại dương <br>
-						<i class="material-icons">check_box</i>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	
-=======
 	</div>
 
 		
@@ -275,7 +225,6 @@
 		?>
 		
 	</div>
->>>>>>> 1eb95d6941a982db9ba6da449c56354a6764e8a1
 
 	<div class="footer_end">
 		<div class="container-fluid">
@@ -285,7 +234,7 @@
 					<p style="text-align: center;">Cảm ơn mọi người đã quan tâm đến Sea Life Tourism</p>
 				</div>
 				<div class="col-sm-4 icon-footer">
-					<a href="#fb" class="fa fa-facebook-square" style="color: #4267b2" aria-hidden="true"></a>
+					<a href="" class="fa fa-facebook-square" style="color: #4267b2" aria-hidden="true"></a>
 					<a href="#instagram" style="color: #FFDAB9" class="fa fa-instagram" aria-hidden="true"></a>
 					<a href="#twitter" style="color: #1da1f2" class="fa fa-twitter-square" aria-hidden="true"></a>
 					<a href="#google"  style="color: #db4437" class="fa fa-google-plus-square" aria-hidden="true"></a>
@@ -297,7 +246,7 @@
 					</p>
 					<p>
 						<i class="fa fa-envelope" style="color: #fc0;font-size: 25px;"></i>
-						<span>Sea_Life_Tourism@gmail.com</span>
+						<span>Sea_Life_Tourism.com@gmail.com</span>
 					</p>
 					<p>
 						<i class="fa fa-map-marker" style="color: red;font-size: 30px;"></i>
@@ -311,6 +260,21 @@
 	<div class="go_up">
 		<div class="thetop"><i class="fa fa-arrow-up"></i></div>
 	</div>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(window).scroll(function(){
+				if($(this).scrollTop() > 200 ){
+					$('.go_up').fadeIn();
+					} else {
+						$('.go_up').fadeOut();
+					}	
+					
+			});
+			$('.go_up').click(function(){
+				$("html,body").animate( { scrollTop:0}, 800)
+			});
+		});
+
+	</script>
 </body>
-<script src="js/go_up.js"></script>
 </html>
