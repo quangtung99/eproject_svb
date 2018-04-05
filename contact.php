@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Sea Life Tourism</title>
+	<title>Sea Life SeaLifeTourism</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -85,7 +85,7 @@
 			<div class="col-sm-4 abc">
 				<p style="display: table;margin: auto">
 				 	<i class="fa fa-envelope" style="font-size: 40px; color: #fc0; text-align:  center;"> </i> &nbsp;
-					 Email<br><span style="font-size: 18px; font-weight: bold;"></span><a href="mailto:quangtungg29@gmail.com"><span style="font-size: 18px; font-weight: bold;">Sea_Life_Tourism.com@gmail.com</span>
+					 Email<br><span style="font-size: 18px; font-weight: bold;"></span><a href="mailto:quangtungg29@gmail.com"><span style="font-size: 18px; font-weight: bold;">Sea_Life_Tourism@gmail.com</span>
 					</a>
 				</p>
 			</div>
@@ -109,6 +109,10 @@
 						<input type="email" class="form-control" name="email" required>
 					</div>
 					<div class="form-group">
+						<label for="phone">Phone_number:</label>
+						<input type="number" class="form-control" name="phone" required>
+					</div>
+					<div class="form-group">
 						<label for="sub">Tiêu đề:</label>
 						<input type="text" class="form-control" name="sub" required>
 					</div>
@@ -122,13 +126,14 @@
 			if (isset($_REQUEST["submit"])) {
 				$fullname = $_REQUEST["name"];
 				$email    = $_REQUEST["email"];
+				$phone 	  = $_REQUEST["phone"];
 				$sub      = $_REQUEST["sub"];
 				$contents  = $_REQUEST["contents"];
 
 				$connect = mysql_connect('localhost' , 'root' , '' );
 				mysql_select_db('project', $connect);
 
-				$into = "INSERT INTO contact(FULL_NAME, EMAIL, TITLE, CONTENT) VALUES ('".$fullname."','".$email."','".$sub."','".$contents."')";
+				$into = "INSERT INTO contact(FULL_NAME, EMAIL,PHONE , TITLE, CONTENT) VALUES ('".$fullname."','".$email."', '".$phone."' ,'".$sub."','".$contents."')";
 				mysql_query($into , $connect);
 
 				mysql_close($connect);
@@ -183,7 +188,7 @@
 					</p>
 					<p>
 						<i class="fa fa-envelope" style="color: #fc0;font-size: 25px;"></i>
-						<span>Sea_Life_Tourism.com@gmail.com</span>
+						<span>Sea_Life_Tourism@gmail.com</span>
 					</p>
 					<p>
 						<i class="fa fa-map-marker" style="color: red;font-size: 30px;"></i>
@@ -193,5 +198,9 @@
 			</div>
 		</div>
 	</div>
+	<div class="go_up">
+		<div class="thetop"><i class="fa fa-arrow-up"></i></div>
+	</div>
 </body>
+<script src="js/go_up.js"></script>
 </html>

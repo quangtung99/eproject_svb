@@ -134,7 +134,7 @@
 					</p>
 					<p>
 						<i class="fa fa-envelope" style="color: #fc0;font-size: 25px;"></i>
-						<span>Sea_Life_Tourism.com@gmail.com</span>
+						<span>Sea_Life_Tourism@gmail.com</span>
 					</p>
 					<p>
 						<i class="fa fa-map-marker" style="color: red;font-size: 30px;"></i>
@@ -144,5 +144,9 @@
 			</div>
 		</div>
 	</div>
+	<div class="go_up">
+		<div class="thetop"><i class="fa fa-arrow-up"></i></div>
+	</div>
 </body>
+<script src="js/go_up.js"></script>
 </html>

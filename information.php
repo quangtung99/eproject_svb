@@ -85,193 +85,189 @@
 
 	<div class="container-fluid">
 		
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_bong_mat_tre.php">
-						<span class="css">Cá bống mắt tre</span>
-						<img src="image/ca_bong_mat_tre.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_bong_mat_tre.php">
+					<span class="css">Cá bống mắt tre</span>
+					<img src="image/ca_bong_mat_tre.jpg">
+				</a>
 			</div>
+		</div>
 
 
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_chuot_gau_truc.php">
-						<span class="css">Cá chuột gấu trúc</span>
-						<img src="image/ca_chuot_gau_truc.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_chuot_gau_truc.php">
+					<span class="css">Cá chuột gấu trúc</span>
+					<img src="image/ca_chuot_gau_truc.jpg">
+				</a>
 			</div>
+		</div>
 
-			
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_cong_gootetra.php">
-						<span class="css">Cá cong gootetra</span>
-						<img src="image/ca_cong_gootetra.jpg">
-					</a>
-				</div>
+		
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_cong_gootetra.php">
+					<span class="css">Cá cong gootetra</span>
+					<img src="image/ca_cong_gootetra.jpg">
+				</a>
 			</div>
+		</div>
 	</div>
 
 	<div class="container-fluid">
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_dien_quang.php">
-						<span class="css">Cá điện quang</span>
-						<img src="image/ca_dien_quang.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_dien_quang.php">
+					<span class="css">Cá điện quang</span>
+					<img src="image/ca_dien_quang.jpg">
+				</a>
 			</div>
+		</div>
 
 
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_doi.php">
-						<span class="css">Cá dơi</span>
-						<img src="image/ca_doi.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_doi.php">
+					<span class="css">Cá dơi</span>
+					<img src="image/ca_doi.jpg">
+				</a>
 			</div>
+		</div>
 
-			
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_ho_diep.php">
-						<span class="css">Cá hồ điệp</span>
-						<img src="image/ca_ho_diep.jpg">
-					</a>
-				</div>
+		
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_ho_diep.php">
+					<span class="css">Cá hồ điệp</span>
+					<img src="image/ca_ho_diep.jpg">
+				</a>
 			</div>
-
+		</div>
 	</div>
 
 	<div class="container-fluid">
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_map_voi.php">
-						<span class="css">Cá mập voi</span>
-						<img src="image/ca_map_voi.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_map_voi.php">
+					<span class="css">Cá mập voi</span>
+					<img src="image/ca_map_voi.jpg">
+				</a>
 			</div>
+		</div>
 
 
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_mat_troi.php">
-						<span class="css">Cá mặt trời</span>
-						<img src="image/ca_mat_troi.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_mat_troi.php">
+					<span class="css">Cá mặt trời</span>
+					<img src="image/ca_mat_troi.jpg">
+				</a>
 			</div>
+		</div>
 
-			
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_mu_chalk.php">
-						<span class="css">Cá mú chalk</span>
-						<img src="image/ca_mu_chalk.jpg">
-					</a>
-				</div>
+		
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_mu_chalk.php">
+					<span class="css">Cá mú chalk</span>
+					<img src="image/ca_mu_chalk.jpg">
+				</a>
 			</div>
+		</div>
 	</div>
 
 	<div class="container-fluid">
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_neon.php">
-						<span class="css">Cá neon</span>
-						<img src="image/ca_neon.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_neon.php">
+					<span class="css">Cá neon</span>
+					<img src="image/ca_neon.jpg">
+				</a>
 			</div>
+		</div>
 
-			
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_riu_vach.php">
-						<span class="css">Cá rìu vạch</span>
-						<img src="image/ca_riu_vach.jpg">
-					</a>
-				</div>
+		
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_riu_vach.php">
+					<span class="css">Cá rìu vạch</span>
+					<img src="image/ca_riu_vach.jpg">
+				</a>
 			</div>
+		</div>
 
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_thien_than_clarion.php">
-						<span class="css">Cá thiên thần</span>
-						<img src="image/ca_thien_than_clarion.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_thien_than_clarion.php">
+					<span class="css">Cá thiên thần</span>
+					<img src="image/ca_thien_than_clarion.jpg">
+				</a>
 			</div>
+		</div>
 	</div>
 
 	<div class="container-fluid">
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_thuy_tinh_duoi_do.php">
-						<span class="css">Cá thủy tinh đuôi đỏ</span>
-						<img src="image/ca_thuy_tinh_duoi_do.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_thuy_tinh_duoi_do.php">
+					<span class="css">Cá thủy tinh đuôi đỏ</span>
+					<img src="image/ca_thuy_tinh_duoi_do.jpg">
+				</a>
 			</div>
+		</div>
 
-			
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_ty_ba_buom.php">
-						<span class="css">Cá tỳ bà bướm</span>
-						<img src="image/ca_ty_ba_buom.jpg">
-					</a>
-				</div>
+		
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_ty_ba_buom.php">
+					<span class="css">Cá tỳ bà bướm</span>
+					<img src="image/ca_ty_ba_buom.jpg">
+				</a>
 			</div>
+		</div>
 
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="ca_voi_voi.php">
-						<span class="css">Cá vòi voi</span>
-						<img src="image/ca_voi_voi.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="ca_voi_voi.php">
+					<span class="css">Cá vòi voi</span>
+					<img src="image/ca_voi_voi.jpg">
+				</a>
 			</div>
+		</div>
 	</div>
 
 
 	<div class="container-fluid">
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="fangblenny.php">
-						<span class="css">Cá fangblenny</span>
-						<img src="image/fangblenny.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="fangblenny.php">
+					<span class="css">Cá fangblenny</span>
+					<img src="image/fangblenny.jpg">
+				</a>
 			</div>
+		</div>
 
-			
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="mandarin.php">
-						<span class="css">Cá mandarin</span>
-						<img src="image/mandarin.jpg">
-					</a>
-				</div>
+		
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="mandarin.php">
+					<span class="css">Cá mandarin</span>
+					<img src="image/mandarin.jpg">
+				</a>
 			</div>
+		</div>
 
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<a href="nemo.php">
-						<span class="css">Cá hề</span>
-						<img src="image/nemo.jpg">
-					</a>
-				</div>
+		<div class="col-sm-4">
+			<div class="thumbnail">
+				<a href="nemo.php">
+					<span class="css">Cá hề</span>
+					<img src="image/nemo.jpg">
+				</a>
 			</div>
+		</div>
 	</div><br><br>
 
-	<div id="bug-wrapper">
-		<input id="bug" type="submit" name="submit_information" value="Thêm dữ liệu" class="btn btn-success">
-	</div><br><br>
 
 	<div class="footer_end">
 		<div class="container-fluid">
@@ -307,21 +303,6 @@
 	<div class="go_up">
 		<div class="thetop"><i class="fa fa-arrow-up"></i></div>
 	</div>
-	<script type="text/javascript">
-		$(document).ready(function(){
-			$(window).scroll(function(){
-				if($(this).scrollTop() > 200 ){
-					$('.go_up').fadeIn();
-					} else {
-						$('.go_up').fadeOut();
-					}	
-					
-			});
-			$('.go_up').click(function(){
-				$("html,body").animate( { scrollTop:0}, 800)
-			});
-		});
-
-	</script>
 </body>
+<script src="js/go_up.js"></script>
 </html>

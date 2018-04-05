@@ -136,13 +136,13 @@
 	.go_up{
 		position: fixed;
 		margin:0 auto;
-		bottom: 20px;
+		bottom: 30px;
 		right:10px;
 		display:  none;
 	}
 	.thetop{
-		padding:20px;
-		background-color: #458a94;
+		padding:10px 15px 10px 15px;
+		background-color: #b2b2b2;
 		border-radius: 100%;
 		text-align: center;
 		cursor: pointer;
